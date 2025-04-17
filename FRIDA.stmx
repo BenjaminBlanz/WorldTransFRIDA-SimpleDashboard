@@ -5,7 +5,7 @@
 		<name>FRIDA</name>
 		<uuid>fe807591-4e3d-4e2c-b464-70ec4fb12094</uuid>
 		<vendor>isee systems, inc.</vendor>
-		<product version="3.8" isee:build_number="3578" isee:saved_by_v1="true" lang="en">Stella Architect</product>
+		<product version="3.8.1" isee:build_number="3623" isee:saved_by_v1="true" lang="en">Stella Architect</product>
 	</header>
 	<sim_specs isee:sim_duration="0" isee:run_prefix="Run" isee:simulation_delay="0" isee:restore_on_start="false" isee:save_interval="1" method="RK4" time_units="Year" isee:instantaneous_flows="false" isee:ignore_module_errors="false" isee:strict_units="false" isee:loop_scores="false" isee:loop_exhaustive_allowed="1000">
 		<start>1980</start>
@@ -4238,7 +4238,7 @@ This is what determines when the model stops calculating</doc>
 				<aux x="1006.5" y="48.1667" name="Simulation End"/>
 				<isee:placeholder x="1014.5" y="927.583" name="Dashboard Right Placeholder"/>
 			</view>
-			<view isee:template_view="template:3" isee:name="Landing Page" isee:original_design="Deluxe Tabbed Blue Gold" background="white" page_width="1066" page_height="600" zoom="145" home_view="true" type="interface">
+			<view isee:template_view="template:3" isee:name="Landing Page" isee:original_design="Deluxe Tabbed Blue Gold" background="white" page_width="1066" page_height="600" zoom="140" home_view="true" type="interface">
 				<style>
 					<isee:stacked_container item_spacing="0" corner_radius="4" selected_item_color="black" selected_item_background="white" item_background="#DDDDDD" transparent_bg="false"/>
 				</style>
@@ -4258,7 +4258,7 @@ Uncertainty Dashboard</text_box>
 				<isee:shape z_index="4" border_color="#FABC00" border_width="4" opacity="1" transparent_background="true" x="802.208" y="282.558" width="457.895" height="449.474" isee:locked="true" kind="ellipse"/>
 				<isee:shape background="#004E75" border_width="thin" border_style="none" transparent_background="false" x="-23.8151" y="55.6667" width="1025.01" height="494.133" isee:locked="true" kind="rectangle"/>
 			</view>
-			<view isee:template_view="template:1" isee:name="Outputs - Confidence" background="white" page_width="1066" page_height="600" zoom="145" type="interface">
+			<view isee:template_view="template:1" isee:name="Outputs - Confidence" background="white" page_width="1066" page_height="600" zoom="140" type="interface">
 				<style>
 					<isee:stacked_container item_spacing="0" corner_radius="4" selected_item_color="black" selected_item_background="white" item_background="#DDDDDD" transparent_bg="false"/>
 				</style>
@@ -4323,7 +4323,11 @@ Uncertainty Dashboard</text_box>
 				</button>
 				<text_box text_align="right" vertical_text_align="center" font_size="14pt" appearance="transparent" x="914.286" y="51.4286" width="102.857" height="23.1428">Display As</text_box>
 			</view>
-			<view isee:template_view="template:2" isee:name="Energy" background="#F7F7F7" page_width="1066" page_height="600" zoom="150" type="interface">
+			<view isee:template_view="template:1" isee:name="Run Management" background="white" page_width="1066" page_height="600" zoom="105" type="interface">
+				<style/>
+				<isee:data_manager_widget font_size="14pt" header_font_size="14pt" x="21.9048" y="88.0952" width="1022.19" height="488.571"/>
+			</view>
+			<view isee:template_view="template:2" isee:name="Energy" background="#F7F7F7" page_width="1066" page_height="600" zoom="140" type="interface">
 				<style>
 					<isee:stacked_container item_spacing="0" corner_radius="4" selected_item_color="black" selected_item_background="white" item_background="#DDDDDD" transparent_bg="false"/>
 				</style>
@@ -4554,7 +4558,7 @@ Uncertainty Dashboard</text_box>
 				<isee:selector x="33.5714" y="368.143" width="280.286" height="30" select_placeholder="true" placeholder="Government_Regulations.concrete_policy"/>
 			</view>
 			<isee:templates>
-				<view isee:template_view="template:3" isee:name="Nav" background="#F7F7F7" page_width="1066" page_height="600" zoom="140" type="template">
+				<view isee:template_view="template:3" isee:name="Nav" background="#F7F7F7" page_width="1066" page_height="600" zoom="105" type="template">
 					<style>
 						<isee:stacked_container item_spacing="0" corner_radius="4" selected_item_color="black" selected_item_background="white" item_background="#DDDDDD" transparent_bg="false"/>
 					</style>
@@ -4562,17 +4566,16 @@ Uncertainty Dashboard</text_box>
 					<isee:shape transparent_background="false" x="0" y="38" width="1066" height="10" kind="hline"/>
 					<isee:shape border_color="#999999" opacity="0.8" transparent_background="false" x="9" y="80" width="1048" height="511.714" kind="rectangle"/>
 					<isee:navigation_widget font_size="14pt" orientation="horizontal" x="16.5" y="50" width="1033" height="30">
-						<isee:navigation_item label="" target="interface:3"/>
 						<isee:navigation_item label="" target="interface:4"/>
 						<isee:navigation_item label="" target="interface:5"/>
 						<isee:navigation_item label="" target="interface:6"/>
+						<isee:navigation_item label="" target="interface:7"/>
 						<isee:navigation_item label="Outputs" target="interface:1"/>
+						<isee:navigation_item label="" target="interface:3"/>
 					</isee:navigation_widget>
 					<button background="white" transparent="true" isee:flat="true" label="" isee:tooltip="Restore All Devices" x="1023" y="7" width="30" height="30">
 						<actions>
 							<action>restore_all</action>
-							<action>start</action>
-							<action isee:run_name_to_set="EMB">set_run_name</action>
 						</actions>
 						<image width="20" height="20" size_to_parent="false">r../Graphics/reset.svg</image>
 					</button>
