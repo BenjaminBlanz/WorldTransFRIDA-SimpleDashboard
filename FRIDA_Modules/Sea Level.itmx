@@ -5,7 +5,7 @@
 		<name>Sea Level</name>
 		<uuid>656dacef-005e-41a3-aedc-d19f6fd6e9f6</uuid>
 		<vendor>isee systems, inc.</vendor>
-		<product version="3.8" isee:build_number="3578" isee:saved_by_v1="true" lang="en">Stella Architect</product>
+		<product version="3.8.1" isee:build_number="3632" isee:saved_by_v1="true" lang="en">Stella Architect</product>
 	</header>
 	<sim_specs isee:sim_duration="0" isee:run_prefix="Run" isee:simulation_delay="0" isee:restore_on_start="false" isee:save_interval="1" method="RK4" time_units="Year" isee:instantaneous_flows="false" isee:ignore_module_errors="false" isee:strict_units="false" isee:loop_scores="false" isee:loop_exhaustive_allowed="1000">
 		<start>1980</start>
@@ -16,7 +16,7 @@
 		<dim name="ClimateCase" size="100"/>
 		<dim name="Run" size="11"/>
 	</dimensions>
-	<isee:prefs saved_runs="100" keep="false" show_module_prefix="true" live_update_on_drag="true" show_restore_buttons="false" layer="model" isee:design="Deluxe Tabbed Blue Gold" isee:design_custom="false" interface_secure_mode="true" interface_scale_ui="true" interface_max_page_width="10000" interface_max_page_height="10000" interface_min_page_width="0" interface_min_page_height="0" rerun_on_structure_change="false" rifp="true">
+	<isee:prefs saved_runs="100" keep="false" show_module_prefix="true" live_update_on_drag="true" show_restore_buttons="false" layer="model" isee:design="Deluxe Tabbed Blue Gold" isee:design_custom="false" interface_secure_mode="true" interface_scale_ui="true" interface_max_page_width="10000" interface_max_page_height="10000" interface_min_page_width="0" interface_min_page_height="0" rifp="true">
 		<isee:ignored_words>
 			<isee:ignored_word>WolrdTrans</isee:ignored_word>
 			<isee:ignored_word>WorldTrans</isee:ignored_word>
@@ -974,37 +974,37 @@ Include_MICI_behaviour * MICI_AntIS_disintegration * AntIS_initial_volume / AntI
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.450273171147547 {0, 1}</eqn>
+					<eqn>0.479180732620373 {0, 1}</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.475178657163564</eqn>
+					<eqn>0.514775209500496</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.497427367041296</eqn>
+					<eqn>0.521053341409581</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.449045038781735</eqn>
+					<eqn>0.52408678859451</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.448044272028836</eqn>
+					<eqn>0.488911932231499</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.522301523150022</eqn>
+					<eqn>0.521820266889836</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.456939280278887</eqn>
+					<eqn>0.513762791744923</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.510894751475432</eqn>
+					<eqn>0.49510347577991</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.541885400627592</eqn>
+					<eqn>0.498145486648862</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.468054236245565</eqn>
+					<eqn>0.508935728517462</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.554062888021543</eqn>
+					<eqn>0.547842448073476</eqn>
 				</element>
 				<range min="0" max="1"/>
 				<units>1</units>
@@ -1016,37 +1016,37 @@ Include_MICI_behaviour * MICI_AntIS_disintegration * AntIS_initial_volume / AntI
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.744140625 {0, 1}</eqn>
+					<eqn>0.19696044921875 {0, 1}</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.840812683105469</eqn>
+					<eqn>0.38470458984375</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.0095977783203125</eqn>
+					<eqn>0.548507690429688</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.114837646484375</eqn>
+					<eqn>0.584732055664062</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.514480590820312</eqn>
+					<eqn>0.140327453613281</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.196701049804688</eqn>
+					<eqn>0.535125732421875</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.00884246826171875</eqn>
+					<eqn>0.8447265625</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.459373474121094</eqn>
+					<eqn>0.396591186523438</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.93585205078125</eqn>
+					<eqn>0.567512512207031</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.01385498046875</eqn>
+					<eqn>0.105262756347656</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.158966064453125</eqn>
+					<eqn>0.07952880859375</eqn>
 				</element>
 				<range min="0" max="1"/>
 				<units>1</units>
@@ -1058,37 +1058,37 @@ Include_MICI_behaviour * MICI_AntIS_disintegration * AntIS_initial_volume / AntI
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.767578125 {0, 1}</eqn>
+					<eqn>0.55169677734375 {0, 1}</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.481849670410156</eqn>
+					<eqn>0.81805419921875</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.459426879882812</eqn>
+					<eqn>0.199722290039062</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.854400634765625</eqn>
+					<eqn>0.610214233398438</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.907669067382812</eqn>
+					<eqn>0.438240051269531</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.222396850585938</eqn>
+					<eqn>0.684356689453125</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.0734634399414062</eqn>
+					<eqn>0.6572265625</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.852058410644531</eqn>
+					<eqn>0.193801879882812</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.56146240234375</eqn>
+					<eqn>0.154609680175781</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.05523681640625</eqn>
+					<eqn>0.933143615722656</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.262786865234375</eqn>
+					<eqn>0.73162841796875</eqn>
 				</element>
 				<range min="0" max="1"/>
 				<units>1</units>
@@ -1100,37 +1100,37 @@ Include_MICI_behaviour * MICI_AntIS_disintegration * AntIS_initial_volume / AntI
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.361328125 {0, 1}</eqn>
+					<eqn>0.68402099609375 {0, 1}</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.832435607910156</eqn>
+					<eqn>0.98162841796875</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.747238159179688</eqn>
+					<eqn>0.824203491210938</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.876800537109375</eqn>
+					<eqn>0.939590454101562</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.0724334716796875</eqn>
+					<eqn>0.158302307128906</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.369705200195312</eqn>
+					<eqn>0.188018798828125</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.0383071899414062</eqn>
+					<eqn>0.6572265625</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.291694641113281</eqn>
+					<eqn>0.427291870117188</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.17449951171875</eqn>
+					<eqn>0.696571350097656</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.32476806640625</eqn>
+					<eqn>0.977607727050781</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.119537353515625</eqn>
+					<eqn>0.73992919921875</eqn>
 				</element>
 				<range min="0" max="1"/>
 				<units>1</units>
@@ -1357,37 +1357,37 @@ https://doi.org/10.1016/j.rser.2024.114439</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>2542637745.21571</eqn>
+					<eqn>2758470399.91858</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>2715002704.05378</eqn>
+					<eqn>2707448385.61637</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>3378773090.73627</eqn>
+					<eqn>2823192110.10011</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>2460398200.62493</eqn>
+					<eqn>3269884144.5322</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>2725386737.27621</eqn>
+					<eqn>3319953059.05607</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>2667928975.25956</eqn>
+					<eqn>2931382296.15364</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>2469250026.86025</eqn>
+					<eqn>3275745262.79527</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>2882046574.49639</eqn>
+					<eqn>2605635951.35063</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>2499136390.32079</eqn>
+					<eqn>3166245677.98085</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>2562156729.8776</eqn>
+					<eqn>3146613604.04194</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>2767439157.30289</eqn>
+					<eqn>2598563416.54686</eqn>
 				</element>
 				<range min="2000000000" max="5000000000"/>
 				<units>m^3/GW</units>

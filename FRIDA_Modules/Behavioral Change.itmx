@@ -5,7 +5,7 @@
 		<name>Behavioral Change</name>
 		<uuid>6b3172a7-ef66-4feb-8f28-f439698b1c18</uuid>
 		<vendor>isee systems, inc.</vendor>
-		<product version="3.8" isee:build_number="3578" isee:saved_by_v1="true" lang="en">Stella Architect</product>
+		<product version="3.8.1" isee:build_number="3632" isee:saved_by_v1="true" lang="en">Stella Architect</product>
 	</header>
 	<sim_specs isee:sim_duration="0" isee:run_prefix="Run" isee:simulation_delay="0" isee:restore_on_start="false" isee:save_interval="1" method="RK4" time_units="Year" isee:instantaneous_flows="false" isee:ignore_module_errors="false" isee:strict_units="false" isee:loop_scores="false" isee:loop_exhaustive_allowed="1000">
 		<start>1980</start>
@@ -19,7 +19,7 @@
 		</dim>
 		<dim name="Run" size="11"/>
 	</dimensions>
-	<isee:prefs saved_runs="100" keep="false" show_module_prefix="true" live_update_on_drag="true" show_restore_buttons="false" layer="model" isee:design="Deluxe Tabbed Blue Gold" isee:design_custom="false" interface_secure_mode="true" interface_scale_ui="true" interface_max_page_width="10000" interface_max_page_height="10000" interface_min_page_width="0" interface_min_page_height="0" rerun_on_structure_change="false" rifp="true">
+	<isee:prefs saved_runs="100" keep="false" show_module_prefix="true" live_update_on_drag="true" show_restore_buttons="false" layer="model" isee:design="Deluxe Tabbed Blue Gold" isee:design_custom="false" interface_secure_mode="true" interface_scale_ui="true" interface_max_page_width="10000" interface_max_page_height="10000" interface_min_page_width="0" interface_min_page_height="0" rifp="true">
 		<isee:ignored_words>
 			<isee:ignored_word>WolrdTrans</isee:ignored_word>
 			<isee:ignored_word>WorldTrans</isee:ignored_word>
@@ -458,37 +458,37 @@
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>4.54907925666131</eqn>
+					<eqn>4.35249533300746</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>4.47896342812034</eqn>
+					<eqn>4.57576126774451</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>4.44958695579055</eqn>
+					<eqn>4.54420114888456</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>4.55987527936776</eqn>
+					<eqn>4.32001338111389</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>4.44391367851698</eqn>
+					<eqn>4.58314352953851</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>4.31058233153998</eqn>
+					<eqn>4.35088465770695</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>4.46185028581816</eqn>
+					<eqn>4.57711869221161</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>4.30005924199184</eqn>
+					<eqn>4.30041176660771</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>4.34896559809396</eqn>
+					<eqn>4.30325070845027</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>4.41521603993991</eqn>
+					<eqn>4.42575320158889</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>4.31168806074544</eqn>
+					<eqn>4.29973811939083</eqn>
 				</element>
 				<range min="1" max="10"/>
 				<units>years</units>
@@ -500,37 +500,37 @@
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>376.814081502824</eqn>
+					<eqn>377.589925900022</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>375.812092179235</eqn>
+					<eqn>375.756725482774</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>376.14355882349</eqn>
+					<eqn>375.554392948489</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>376.717089088088</eqn>
+					<eqn>375.860220510609</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>376.964427335054</eqn>
+					<eqn>376.38615272809</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>376.926429784994</eqn>
+					<eqn>374.975732686273</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>375.947790487175</eqn>
+					<eqn>377.630127663559</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>375.885102118966</eqn>
+					<eqn>377.009696788498</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>375.465294965515</eqn>
+					<eqn>374.728075114928</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>376.115553971348</eqn>
+					<eqn>376.604124728921</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>375.693533245574</eqn>
+					<eqn>376.740393999346</eqn>
 				</element>
 				<range min="350" max="400"/>
 				<units>kcal/person/day</units>
@@ -571,37 +571,37 @@
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>3.71525057065311</eqn>
+					<eqn>2.10712599768278</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>3.07694218656165</eqn>
+					<eqn>3.75230213393409</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>3.26027940711421</eqn>
+					<eqn>3.78944370545117</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>2.70050596322739</eqn>
+					<eqn>3.43944078292827</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>3.55257200551572</eqn>
+					<eqn>2.92666153989023</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>2.14895859027512</eqn>
+					<eqn>2.19632591761772</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>2.99756594364779</eqn>
+					<eqn>2.25472991104782</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>2.01241382516842</eqn>
+					<eqn>2.51081127256032</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>2.16671942524743</eqn>
+					<eqn>3.69716118545104</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>3.41515922967729</eqn>
+					<eqn>2.91144402151967</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>2.92431919190106</eqn>
+					<eqn>3.35869169829397</eqn>
 				</element>
 				<range min="1" max="5"/>
 				<units>year</units>
@@ -628,37 +628,37 @@
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>4.80046509620438</eqn>
+					<eqn>4.84189458489847</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>1.57649133517824</eqn>
+					<eqn>6.36429019611057</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>1.56855068317854</eqn>
+					<eqn>7.6876861632954</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>7.17603197792341</eqn>
+					<eqn>9.78429448780756</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>9.35508498493681</eqn>
+					<eqn>9.57983996110224</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>8.93885672185687</eqn>
+					<eqn>5.96131936941273</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>9.34258708918076</eqn>
+					<eqn>6.61231473509251</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>9.36937815853627</eqn>
+					<eqn>3.44033498237745</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>5.38323990383455</eqn>
+					<eqn>5.2142766391105</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>7.43482818396581</eqn>
+					<eqn>4.41247793458424</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>6.00440603765459</eqn>
+					<eqn>4.38009388425503</eqn>
 				</element>
 				<range min="1" max="20"/>
 				<units>year</units>
@@ -685,37 +685,37 @@
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>62.9749657484105</eqn>
+					<eqn>52.9904044152815</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>57.5989406088616</eqn>
+					<eqn>58.6014886406351</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>47.1165222062659</eqn>
+					<eqn>53.2052816467833</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>53.7691456615765</eqn>
+					<eqn>56.091525742589</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>61.3002177219844</eqn>
+					<eqn>53.240219700455</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>65.626741400456</eqn>
+					<eqn>55.8595895553039</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>62.3059062850519</eqn>
+					<eqn>45.8558242157381</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>45.9848715614201</eqn>
+					<eqn>56.8335903191647</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>62.7193905100198</eqn>
+					<eqn>53.7769206939465</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>58.5571651990851</eqn>
+					<eqn>57.3888265242284</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>67.0429933286241</eqn>
+					<eqn>62.6431489339207</eqn>
 				</element>
 				<range min="20" max="100"/>
 				<units>year</units>
@@ -757,37 +757,37 @@
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>1.04258217549586</eqn>
+					<eqn>1.04102390556419</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>1.04216060500471</eqn>
+					<eqn>1.04667539975856</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>1.03110929459428</eqn>
+					<eqn>1.00612166184617</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>1.00766649841636</eqn>
+					<eqn>1.01037134526023</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>1.00445750541813</eqn>
+					<eqn>1.00053140797619</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>1.00627654060206</eqn>
+					<eqn>1.00776448293539</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>1.03527324155418</eqn>
+					<eqn>1.01663840348947</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>1.04941936139027</eqn>
+					<eqn>1.003046212265</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>1.01810184969305</eqn>
+					<eqn>1.04415348369014</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>1.02637680036468</eqn>
+					<eqn>1.04544150599674</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>1.03739373717367</eqn>
+					<eqn>1.00305648483555</eqn>
 				</element>
 				<range min="1" max="5"/>
 				<units>years</units>
@@ -825,37 +825,37 @@ Calibration Parameter: fertilizer use &amp; crop production</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.964304352264622</eqn>
+					<eqn>0.955472081069474</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.960109813453295</eqn>
+					<eqn>0.963321584342729</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.999986569891743</eqn>
+					<eqn>0.98087631584786</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.964792576200096</eqn>
+					<eqn>0.984726806885887</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.994172123022665</eqn>
+					<eqn>0.99011267530028</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.963214933483038</eqn>
+					<eqn>0.970325780802136</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.999569051526212</eqn>
+					<eqn>0.972950181956902</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.956701725981393</eqn>
+					<eqn>0.987490249161435</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.955990325246936</eqn>
+					<eqn>0.951424483442611</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.998239865811915</eqn>
+					<eqn>0.994990174616813</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.960321140156756</eqn>
+					<eqn>0.951667410400795</eqn>
 				</element>
 				<range min="0.1" max="1"/>
 				<units>dmnl</units>
@@ -895,37 +895,37 @@ Planetary health diet from EAT Lancet https://www.thelancet.com/journals/lancet/
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>25.7014236773404</eqn>
+					<eqn>25.9300774642474</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>23.5594877565719</eqn>
+					<eqn>24.6776373548689</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>26.1887670487767</eqn>
+					<eqn>22.2628546670927</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>23.4390060310886</eqn>
+					<eqn>22.944315242785</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>29.1486593064145</eqn>
+					<eqn>25.4909876897681</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>22.781946615225</eqn>
+					<eqn>21.7942751384972</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>23.751147446678</eqn>
+					<eqn>27.4705402027858</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>29.1278961733196</eqn>
+					<eqn>25.8199582597152</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>21.0277049154211</eqn>
+					<eqn>22.8765913289352</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>22.6909777043414</eqn>
+					<eqn>24.5190922350905</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>26.3616774213724</eqn>
+					<eqn>25.7004312808637</eqn>
 				</element>
 				<range min="10" max="30"/>
 				<units>years</units>
@@ -937,37 +937,37 @@ Calibration Parameter: fertilizer use &amp; crop production</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>-0.732231079068478</eqn>
+					<eqn>-0.735116054909431</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>-0.737005546501569</eqn>
+					<eqn>-0.739163501988165</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>-0.701978533936918</eqn>
+					<eqn>-0.726987180319398</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>-0.711407908480663</eqn>
+					<eqn>-0.716247853387727</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>-0.703673566356306</eqn>
+					<eqn>-0.70230417166527</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>-0.711142302954232</eqn>
+					<eqn>-0.73474302527195</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>-0.739302920798561</eqn>
+					<eqn>-0.73293828674244</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>-0.727408938848591</eqn>
+					<eqn>-0.743240398775121</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>-0.712995487952036</eqn>
+					<eqn>-0.731285705038744</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>-0.727881504806585</eqn>
+					<eqn>-0.710331104957611</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>-0.717809682707457</eqn>
+					<eqn>-0.71294571046323</eqn>
 				</element>
 				<range min="-1" max="-0.1"/>
 				<units>dmnl</units>
@@ -1052,37 +1052,37 @@ Calibration Parameter: fertilizer use &amp; crop production</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>3.73834138748631</eqn>
+					<eqn>5.11456926869319</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>4.25385329992575</eqn>
+					<eqn>3.85971038944585</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>3.89165902872671</eqn>
+					<eqn>3.83638368107172</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>5.07251799831847</eqn>
+					<eqn>3.58435583586843</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>4.95736149549714</eqn>
+					<eqn>4.96825707189382</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>3.60656254829839</eqn>
+					<eqn>3.76944752055742</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>4.64213703040438</eqn>
+					<eqn>4.15777043413044</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>3.47313025487683</eqn>
+					<eqn>4.97283854923761</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>4.11679218659317</eqn>
+					<eqn>4.4674317112754</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>4.52579530817663</eqn>
+					<eqn>4.08942100433381</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>4.25767234023532</eqn>
+					<eqn>4.9262161933527</eqn>
 				</element>
 				<range min="3" max="50"/>
 				<units>years</units>
@@ -1100,37 +1100,37 @@ Calibration Parameter: fertilizer use &amp; crop production</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.39730195745046</eqn>
+					<eqn>0.415147242312371</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.368428202624982</eqn>
+					<eqn>0.475217692359659</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.363659464757582</eqn>
+					<eqn>0.44392622758586</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.503648545145197</eqn>
+					<eqn>0.38098539497554</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.366929007325095</eqn>
+					<eqn>0.475999710551707</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.424656868282736</eqn>
+					<eqn>0.496827879286824</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.557417194399992</eqn>
+					<eqn>0.53243923402768</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.55849394279362</eqn>
+					<eqn>0.48328124836279</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.337491335001494</eqn>
+					<eqn>0.401713350853094</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.503137679119023</eqn>
+					<eqn>0.415521251012915</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.465184263112972</eqn>
+					<eqn>0.51610453824504</eqn>
 				</element>
 				<range min="0" max="1"/>
 				<units>dmnl</units>
@@ -1194,37 +1194,37 @@ Calibration Parameter: fertilizer use &amp; crop production</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.178357407486867</eqn>
+					<eqn>0.178511781613731</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.179021677396544</eqn>
+					<eqn>0.17820640968578</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.178534817608531</eqn>
+					<eqn>0.17881048065714</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.178764888834183</eqn>
+					<eqn>0.178631958320781</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.178653451048999</eqn>
+					<eqn>0.178781826124779</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.178935117896212</eqn>
+					<eqn>0.178925552283588</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.178868306309876</eqn>
+					<eqn>0.178837625692317</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.178764823153759</eqn>
+					<eqn>0.178412491683152</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.179055021158201</eqn>
+					<eqn>0.178702477105483</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.17859998718428</eqn>
+					<eqn>0.178412420419336</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.17904856988105</eqn>
+					<eqn>0.17824828689518</eqn>
 				</element>
 				<range min="0.15" max="0.3"/>
 				<units>dmnl</units>
@@ -1305,37 +1305,37 @@ Calibration Parameter: fertilizer use &amp; crop production</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.348347065373369</eqn>
+					<eqn>0.351140285063637</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.348537008839834</eqn>
+					<eqn>0.344311717007298</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.353960849609502</eqn>
+					<eqn>0.35052247968423</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.3433368968409</eqn>
+					<eqn>0.344192656673698</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.342317913985108</eqn>
+					<eqn>0.343756581847445</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.350677234418849</eqn>
+					<eqn>0.342676272864437</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.34545904332733</eqn>
+					<eqn>0.345813708908102</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.342875992974325</eqn>
+					<eqn>0.341429933592045</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.34623994713265</eqn>
+					<eqn>0.341637046238297</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.34883429691852</eqn>
+					<eqn>0.355510322648895</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.341820964927693</eqn>
+					<eqn>0.351420796443021</eqn>
 				</element>
 				<range min="0" max="1"/>
 				<units>dmnl</units>
@@ -1347,37 +1347,37 @@ Calibration Parameter: fertilizer use &amp; crop production</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>43847.65625</eqn>
+					<eqn>38143.9208984375</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>37431.7169189453</eqn>
+					<eqn>39767.4560546875</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>43118.4387207031</eqn>
+					<eqn>36886.4440917969</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>43056.9458007812</eqn>
+					<eqn>38316.8029785156</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>36448.5168457031</eqn>
+					<eqn>41938.2476806641</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>38879.2419433594</eqn>
+					<eqn>41426.6967773438</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>35554.8858642578</eqn>
+					<eqn>41767.578125</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>39404.6783447266</eqn>
+					<eqn>42098.2360839844</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>35031.1279296875</eqn>
+					<eqn>43602.6763916016</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>39653.9306640625</eqn>
+					<eqn>40291.8243408203</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>37570.4956054688</eqn>
+					<eqn>43307.4951171875</eqn>
 				</element>
 				<range min="35000" max="45000"/>
 				<units>c$/person/year</units>
@@ -1432,37 +1432,37 @@ Calibration Parameter: fertilizer use &amp; crop production</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>-5.62484506251031</eqn>
+					<eqn>-4.90109726439895</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>-4.70311490003991</eqn>
+					<eqn>-4.77410536113164</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>-5.57855003546331</eqn>
+					<eqn>-4.89417736806816</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>-4.07438252031819</eqn>
+					<eqn>-5.12807349654019</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>-5.54753364268692</eqn>
+					<eqn>-4.27757101509711</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>-4.23775422733528</eqn>
+					<eqn>-5.33013083690759</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>-4.08044040953233</eqn>
+					<eqn>-5.14846993638133</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>-4.91242453747663</eqn>
+					<eqn>-4.47070150757322</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>-5.19051353603304</eqn>
+					<eqn>-5.40328013473498</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>-4.93279179868712</eqn>
+					<eqn>-5.430923395143</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>-5.12720540538254</eqn>
+					<eqn>-5.26056862444852</eqn>
 				</element>
 				<range min="-7.5" max="-2.5"/>
 				<units>dmnl</units>
@@ -1499,37 +1499,37 @@ Calibration Parameter: fertilizer use &amp; crop production</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>1.46712378057304</eqn>
+					<eqn>1.47711298789738</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>1.47290386989259</eqn>
+					<eqn>1.36820983624942</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>1.46680527972334</eqn>
+					<eqn>1.40096151260776</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>1.42756958071035</eqn>
+					<eqn>1.35577211324405</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>1.36591062061851</eqn>
+					<eqn>1.39632545326531</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>1.37153145951321</eqn>
+					<eqn>1.40937462308509</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>1.43385847012942</eqn>
+					<eqn>1.42131722330416</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>1.37833515848179</eqn>
+					<eqn>1.47775525560813</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>1.35721494647671</eqn>
+					<eqn>1.35314438327577</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>1.36223083407198</eqn>
+					<eqn>1.41154501072064</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>1.47927488846158</eqn>
+					<eqn>1.46893650236612</eqn>
 				</element>
 				<range min="0.1" max="2"/>
 				<units>dmnl</units>
@@ -1541,37 +1541,37 @@ Calibration Parameter: fertilizer use &amp; crop production</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>1.04216789965251</eqn>
+					<eqn>0.969251166176142</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>1.04234849447877</eqn>
+					<eqn>1.00727651106769</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>1.04160825414695</eqn>
+					<eqn>1.00324803613168</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.988635094816296</eqn>
+					<eqn>0.996055712340265</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>1.00121851893762</eqn>
+					<eqn>0.97239396821249</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.969690499085741</eqn>
+					<eqn>1.02842116940164</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.986193426304476</eqn>
+					<eqn>0.96293939578785</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>1.03530198865707</eqn>
+					<eqn>0.999648461238287</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.962653254537182</eqn>
+					<eqn>1.03333190423961</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>1.0026302015722</eqn>
+					<eqn>1.01660138958024</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>1.02338868379948</eqn>
+					<eqn>0.969160152904501</eqn>
 				</element>
 				<range min="0.5" max="1.5"/>
 				<units>dmnl</units>
@@ -1583,37 +1583,37 @@ Calibration Parameter: fertilizer use &amp; crop production</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>-0.426213772230568</eqn>
+					<eqn>-0.399146868593126</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>-0.415062370985264</eqn>
+					<eqn>-0.420083992849165</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>-0.405871524747444</eqn>
+					<eqn>-0.40847887908166</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>-0.39390896207011</eqn>
+					<eqn>-0.403692516649034</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>-0.425569741162951</eqn>
+					<eqn>-0.411410735509905</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>-0.416680391483507</eqn>
+					<eqn>-0.401314973489678</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>-0.394339529602982</eqn>
+					<eqn>-0.41995665438538</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>-0.388060723120539</eqn>
+					<eqn>-0.414302938293727</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>-0.396033668881056</eqn>
+					<eqn>-0.390449037164364</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>-0.417124528016262</eqn>
+					<eqn>-0.395324759922452</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>-0.39495476791475</eqn>
+					<eqn>-0.390148283818976</eqn>
 				</element>
 				<range min="-1" max="-0.01"/>
 				<units>dmnl</units>
@@ -2316,37 +2316,37 @@ SMTH3(Surface_Temperature_Anomaly, time_to_report_and_perceive_climate_informati
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>5.94171801879883</eqn>
+					<eqn>5.83511443959053</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>8.23211884500352</eqn>
+					<eqn>7.67427792515348</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>7.6677854816988</eqn>
+					<eqn>8.75185896550087</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>6.3961208945359</eqn>
+					<eqn>7.82280587518139</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>5.7750753984796</eqn>
+					<eqn>6.94882805577287</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>5.73230308678393</eqn>
+					<eqn>5.61801147329715</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>6.9867811097589</eqn>
+					<eqn>7.63516248986663</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>8.56427478368302</eqn>
+					<eqn>5.92693730890385</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>5.36323309032088</eqn>
+					<eqn>7.67135656795832</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>5.76357063477268</eqn>
+					<eqn>5.16194148843921</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>4.76004468149065</eqn>
+					<eqn>6.02306533618899</eqn>
 				</element>
 				<range min="1" max="10"/>
 				<units>years</units>
@@ -2416,37 +2416,37 @@ ELSE
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>41.9226906176232</eqn>
+					<eqn>69.8580883771137</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>45.4127036100644</eqn>
+					<eqn>40.8853161387163</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>50.0081158472442</eqn>
+					<eqn>34.0244281489504</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>47.8612872214671</eqn>
+					<eqn>69.1980207415729</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>51.8095072090405</eqn>
+					<eqn>39.0214835377817</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>61.7237394563293</eqn>
+					<eqn>72.6708158968864</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>63.1122510407009</eqn>
+					<eqn>39.2645257827756</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>62.2751596814246</eqn>
+					<eqn>47.6531078839319</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>43.6816790983383</eqn>
+					<eqn>50.7088776486986</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>42.1873430823027</eqn>
+					<eqn>62.8800669976882</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>54.7875785208413</eqn>
+					<eqn>35.5376236648781</eqn>
 				</element>
 				<range min="10" max="100"/>
 				<units>year</units>
@@ -2458,37 +2458,37 @@ ELSE
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>4.9949987174358</eqn>
+					<eqn>5.1982549159926</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>6.81885449567884</eqn>
+					<eqn>5.1554792940552</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>5.39684461367768</eqn>
+					<eqn>5.41223996473441</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>3.0711330214941</eqn>
+					<eqn>5.59596126095551</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>3.76338855703684</eqn>
+					<eqn>4.38546462965471</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>2.96032501688255</eqn>
+					<eqn>5.73829714295218</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>3.01510076685884</eqn>
+					<eqn>4.59754259858514</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>6.06479463722378</eqn>
+					<eqn>4.63700310982239</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>6.68656811455329</eqn>
+					<eqn>4.93684239642771</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>6.69222238551858</eqn>
+					<eqn>5.93330050945927</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>4.35496665678085</eqn>
+					<eqn>5.16346407681685</eqn>
 				</element>
 				<format precision="0.01"/>
 				<range min="1" max="10"/>
@@ -2545,37 +2545,37 @@ normal_sensitivity_to_climate_information</eqn>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.414111959427779</eqn>
+					<eqn>0.429760719338928</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.417682177917592</eqn>
+					<eqn>0.413641064994412</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.413141278699704</eqn>
+					<eqn>0.43452001500511</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.423843109798888</eqn>
+					<eqn>0.412675797645916</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.444884668528162</eqn>
+					<eqn>0.420705518408913</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.425501482829612</eqn>
+					<eqn>0.434492081223321</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.416905633335132</eqn>
+					<eqn>0.414626817116219</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.426008731974972</eqn>
+					<eqn>0.422862316738396</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.410886499955178</eqn>
+					<eqn>0.442131349791974</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.420005421603752</eqn>
+					<eqn>0.415959258507566</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.444410586843416</eqn>
+					<eqn>0.440119807127795</eqn>
 				</element>
 				<range min="0" max="1"/>
 				<units>dmnl</units>
@@ -2682,37 +2682,37 @@ ELSE
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>4.62616706368219</eqn>
+					<eqn>5.87392458481169</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>1.68183966995443</eqn>
+					<eqn>4.31967261566379</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>5.54131024433858</eqn>
+					<eqn>2.5661676904792</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>6.00349819028188</eqn>
+					<eqn>3.36933465544607</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>1.05152957635325</eqn>
+					<eqn>4.33912443889667</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>4.27350905951271</eqn>
+					<eqn>2.92687472495194</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>4.96679097842767</eqn>
+					<eqn>3.64134453245931</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>2.25616165571085</eqn>
+					<eqn>1.93455554785838</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>2.73890619375219</eqn>
+					<eqn>1.81614799913242</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>5.01346746298042</eqn>
+					<eqn>2.22791113758763</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>2.96917159007498</eqn>
+					<eqn>5.34237293654908</eqn>
 				</element>
 				<format precision="0.01"/>
 				<range min="1" max="10"/>
@@ -2750,37 +2750,37 @@ Magalhães SdS, Miranda DK, Miranda DMd, Malloy-Diniz LF, Romano-Silva MA (2018)
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>8.82270575204016</eqn>
+					<eqn>8.6728229666489</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>8.98149980616526</eqn>
+					<eqn>11.8941882991817</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>12.1828636823616</eqn>
+					<eqn>8.50507972061604</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>8.50738999482004</eqn>
+					<eqn>11.7960907168016</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>11.2202525031473</eqn>
+					<eqn>9.21938215349617</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>6.96100101526176</eqn>
+					<eqn>8.90203104474129</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>6.7719089474024</eqn>
+					<eqn>9.41155929919934</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>8.2796679594495</eqn>
+					<eqn>9.99442545103818</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>9.69399006128397</eqn>
+					<eqn>9.66853152699116</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>7.96354064829006</eqn>
+					<eqn>9.46277999258227</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>11.0156327032492</eqn>
+					<eqn>7.93958878632052</eqn>
 				</element>
 				<range min="5" max="15"/>
 				<units>Mp/year</units>
@@ -2815,37 +2815,37 @@ Magalhães SdS, Miranda DK, Miranda DMd, Malloy-Diniz LF, Romano-Silva MA (2018)
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>10.0810504053334</eqn>
+					<eqn>10.1537158871698</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>10.0423626574537</eqn>
+					<eqn>10.1655126071242</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>10.0176864058727</eqn>
+					<eqn>10.1459988661997</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>10.1305214539655</eqn>
+					<eqn>10.0459175758811</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>10.1281592186217</eqn>
+					<eqn>10.0389566437022</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>10.1749933533816</eqn>
+					<eqn>10.0020412951686</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>10.1712591710725</eqn>
+					<eqn>10.0031457919878</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>10.0515745078886</eqn>
+					<eqn>10.0548287256113</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>10.1816116602383</eqn>
+					<eqn>10.0990620884107</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>10.0628811435213</eqn>
+					<eqn>10.1114081654218</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>10.0586886817729</eqn>
+					<eqn>10.1596836396173</eqn>
 				</element>
 				<range min="10" max="100"/>
 				<units>year</units>
@@ -2880,37 +2880,37 @@ Magalhães SdS, Miranda DK, Miranda DMd, Malloy-Diniz LF, Romano-Silva MA (2018)
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.422729150656851</eqn>
+					<eqn>0.403373089693819</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.416697137689897</eqn>
+					<eqn>0.431718953044549</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.396171068068028</eqn>
+					<eqn>0.405589518162743</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.441546816402205</eqn>
+					<eqn>0.448629440984286</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.398612172346751</eqn>
+					<eqn>0.455284722631384</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.405455631015226</eqn>
+					<eqn>0.444433162982865</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.423188703302064</eqn>
+					<eqn>0.445686922323378</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.410178503381091</eqn>
+					<eqn>0.418179442392521</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.438305955177328</eqn>
+					<eqn>0.396146529877653</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.459301420606824</eqn>
+					<eqn>0.39468344723855</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.435025721302795</eqn>
+					<eqn>0.417450081523997</eqn>
 				</element>
 				<range min="0" max="1"/>
 				<units>dmnl</units>
@@ -3482,37 +3482,37 @@ Magalhães SdS, Miranda DK, Miranda DMd, Malloy-Diniz LF, Romano-Silva MA (2018)
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>1.11046437151838</eqn>
+					<eqn>1.21333431749487</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>1.1416892255147</eqn>
+					<eqn>1.05727521303855</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>1.03104344726376</eqn>
+					<eqn>1.05908223544253</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>1.10050989722275</eqn>
+					<eqn>1.05157939388213</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>1.22965387850394</eqn>
+					<eqn>1.21586520559869</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>1.03478430066148</eqn>
+					<eqn>1.19932196832713</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>1.01407751469302</eqn>
+					<eqn>1.21980155557228</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>1.01495812989964</eqn>
+					<eqn>1.002314256763</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>1.04515794779546</eqn>
+					<eqn>1.04091162126914</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>1.22683238738193</eqn>
+					<eqn>1.22253674640404</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>1.13718575934805</eqn>
+					<eqn>1.11126749258681</eqn>
 				</element>
 				<range min="1" max="5"/>
 				<units>year</units>
@@ -3539,37 +3539,37 @@ Magalhães SdS, Miranda DK, Miranda DMd, Malloy-Diniz LF, Romano-Silva MA (2018)
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>3.27135768464697</eqn>
+					<eqn>3.35369440071542</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>1.22147825070239</eqn>
+					<eqn>2.69967699681266</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>1.89797959050923</eqn>
+					<eqn>1.01649239495286</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>3.70383420849942</eqn>
+					<eqn>2.34131186800154</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>2.49387695954015</eqn>
+					<eqn>3.2931318212746</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>1.82491201793327</eqn>
+					<eqn>1.07657481605961</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>3.60657083117616</eqn>
+					<eqn>2.72890402584305</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>2.72683725736161</eqn>
+					<eqn>2.39216689851441</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>1.7253313547369</eqn>
+					<eqn>1.11580166430824</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>2.75111656790614</eqn>
+					<eqn>2.63552366809097</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>1.39990926293288</eqn>
+					<eqn>2.77316209837477</eqn>
 				</element>
 				<range min="1" max="20"/>
 				<units>year</units>
@@ -3596,37 +3596,37 @@ Magalhães SdS, Miranda DK, Miranda DMd, Malloy-Diniz LF, Romano-Silva MA (2018)
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>78.7407725916329</eqn>
+					<eqn>56.364628999455</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>47.8308237827942</eqn>
+					<eqn>38.4446072117924</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>48.0778233108079</eqn>
+					<eqn>55.3207636873606</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>52.1208360575401</eqn>
+					<eqn>66.085332529547</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>56.0938331900321</eqn>
+					<eqn>60.8790292407231</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>79.2814487238204</eqn>
+					<eqn>67.6100571024911</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>43.9441792411983</eqn>
+					<eqn>37.2023874545976</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>65.4700908636879</eqn>
+					<eqn>61.8524353139013</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>47.4266780983749</eqn>
+					<eqn>68.570105973979</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>46.150838016666</eqn>
+					<eqn>62.8064734446287</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>45.6451696915985</eqn>
+					<eqn>66.7191317497502</eqn>
 				</element>
 				<range min="20" max="100"/>
 				<units>year</units>
@@ -3668,37 +3668,37 @@ Magalhães SdS, Miranda DK, Miranda DMd, Malloy-Diniz LF, Romano-Silva MA (2018)
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>1.33130946486252</eqn>
+					<eqn>1.13190089721534</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>1.37704759506315</eqn>
+					<eqn>1.12729937687002</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>1.17367232047195</eqn>
+					<eqn>1.04352505143699</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>1.2799492027156</eqn>
+					<eqn>1.41637446063631</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>1.05291046945838</eqn>
+					<eqn>1.06519638849011</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>1.34371813786688</eqn>
+					<eqn>1.31614408835861</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>1.14301539262258</eqn>
+					<eqn>1.30572052245444</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>1.11828222076652</eqn>
+					<eqn>1.18098144272777</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>1.08263095985943</eqn>
+					<eqn>1.24086784508769</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>1.23913876770183</eqn>
+					<eqn>1.44646321295524</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>1.32616081252493</eqn>
+					<eqn>1.30485072287697</eqn>
 				</element>
 				<range min="1" max="5"/>
 				<units>years</units>
@@ -3726,37 +3726,37 @@ Calibration Parameter: fertilizer use &amp; crop production</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>-0.142241725353155</eqn>
+					<eqn>-0.138801183448327</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>-0.140529683355194</eqn>
+					<eqn>-0.143260453844316</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>-0.130853548430855</eqn>
+					<eqn>-0.127485414447208</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>-0.131048848228159</eqn>
+					<eqn>-0.139455197427362</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>-0.127525950295058</eqn>
+					<eqn>-0.127097604836704</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>-0.137678953002617</eqn>
+					<eqn>-0.132972156545042</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>-0.140216168978594</eqn>
+					<eqn>-0.139720938831774</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>-0.13650624885549</eqn>
+					<eqn>-0.127652081530115</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>-0.127924568821742</eqn>
+					<eqn>-0.125582786238731</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>-0.13527301470496</eqn>
+					<eqn>-0.143945177776591</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>-0.131120242591148</eqn>
+					<eqn>-0.126717202652107</eqn>
 				</element>
 				<range min="-1" max="-0.01"/>
 				<units>dmnl</units>
@@ -3768,37 +3768,37 @@ Calibration Parameter: fertilizer use &amp; crop production</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.938129434029954</eqn>
+					<eqn>0.981302501560156</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.965500041117401</eqn>
+					<eqn>0.872542648652861</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.967991531000059</eqn>
+					<eqn>0.929919570621804</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.90531924256866</eqn>
+					<eqn>0.887703575085419</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.940809944219039</eqn>
+					<eqn>0.983911432098422</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.960527173549548</eqn>
+					<eqn>0.911966922339382</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.951044265913118</eqn>
+					<eqn>0.913042165348783</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.977121289586622</eqn>
+					<eqn>0.913849575099479</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.889709121130888</eqn>
+					<eqn>0.936514720244013</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.901644625582811</eqn>
+					<eqn>0.928120004821524</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.94159247273042</eqn>
+					<eqn>0.93704158931862</eqn>
 				</element>
 				<range min="0.1" max="1"/>
 				<units>dmnl</units>
@@ -3838,37 +3838,37 @@ Planetary health diet from EAT Lancet https://www.thelancet.com/journals/lancet/
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>7.22540527556535</eqn>
+					<eqn>6.08365256223319</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>8.92483085940475</eqn>
+					<eqn>8.90343048869926</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>6.44400338417402</eqn>
+					<eqn>9.13096284556121</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>6.82447558931398</eqn>
+					<eqn>8.70208734960692</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>8.82907784115524</eqn>
+					<eqn>8.52566184436354</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>8.84320874232927</eqn>
+					<eqn>6.66295373050049</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>6.58759827698658</eqn>
+					<eqn>8.97334054935696</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>7.88847241447808</eqn>
+					<eqn>6.04041870893171</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>8.44620430640401</eqn>
+					<eqn>6.10348386039963</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>8.62316382698859</eqn>
+					<eqn>7.438809306925</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>8.14834707577497</eqn>
+					<eqn>8.7631774877513</eqn>
 				</element>
 				<range min="5" max="30"/>
 				<units>years</units>
@@ -3880,37 +3880,37 @@ Calibration Parameter: fertilizer use &amp; crop production</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>-0.858982248728628</eqn>
+					<eqn>-0.893125601517037</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>-0.798581282211658</eqn>
+					<eqn>-0.723093841030067</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>-0.838969899936778</eqn>
+					<eqn>-0.938665448030748</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>-0.737300389382594</eqn>
+					<eqn>-0.766594916434604</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>-0.817695237102147</eqn>
+					<eqn>-0.86293560143366</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>-0.834011895383201</eqn>
+					<eqn>-0.939929836122059</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>-0.747767167181393</eqn>
+					<eqn>-0.753561656489908</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>-0.849460576968745</eqn>
+					<eqn>-0.859267125950737</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>-0.726563115717485</eqn>
+					<eqn>-0.881923298029828</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>-0.820056915870656</eqn>
+					<eqn>-0.895932193076124</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>-0.83780752814179</eqn>
+					<eqn>-0.77979442810065</eqn>
 				</element>
 				<range min="-1" max="-0.1"/>
 				<units>dmnl</units>
@@ -3988,37 +3988,37 @@ Calibration Parameter: fertilizer use &amp; crop production</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>3.43344744420192</eqn>
+					<eqn>3.27929623913239</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>3.47977512058004</eqn>
+					<eqn>4.60049419483136</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>4.22122244510641</eqn>
+					<eqn>5.0464290457479</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>4.3751026930965</eqn>
+					<eqn>5.1929488606454</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>4.17491049968801</eqn>
+					<eqn>3.91296198889167</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>5.1408543503917</eqn>
+					<eqn>4.57506892210553</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>5.11315213032315</eqn>
+					<eqn>3.9211125830763</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>3.79923945059259</eqn>
+					<eqn>5.19348332583783</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>3.35655451308604</eqn>
+					<eqn>3.24213182021558</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>3.32056207724456</eqn>
+					<eqn>4.95585628367278</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>3.69414090869709</eqn>
+					<eqn>4.17658694506017</eqn>
 				</element>
 				<range min="3" max="50"/>
 				<units>years</units>
@@ -4036,37 +4036,37 @@ Calibration Parameter: fertilizer use &amp; crop production</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.76539846011401</eqn>
+					<eqn>0.829234397415304</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.230891693315203</eqn>
+					<eqn>0.120899869974982</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.0605358685726604</eqn>
+					<eqn>0.11039465620341</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.48844824286801</eqn>
+					<eqn>0.2478713969928</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.946490464320974</eqn>
+					<eqn>0.273344677762305</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.50062237003308</eqn>
+					<eqn>0.142089109667428</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.212235625737887</eqn>
+					<eqn>0.203689895102431</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.732131949837366</eqn>
+					<eqn>0.78815230611286</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.537293761652707</eqn>
+					<eqn>0.904730376952421</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.510471939257206</eqn>
+					<eqn>0.113933646658372</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.338424849602503</eqn>
+					<eqn>0.658289982681305</eqn>
 				</element>
 				<range min="0" max="1"/>
 				<units>dmnl</units>
@@ -4184,37 +4184,37 @@ Calibration Parameter: fertilizer use &amp; crop production</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>2463.30715320392</eqn>
+					<eqn>2466.5689776558</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>2463.47941877143</eqn>
+					<eqn>2469.00340309151</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>2461.92268160941</eqn>
+					<eqn>2463.75105134489</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>2466.93799383793</eqn>
+					<eqn>2464.00277514129</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>2463.28713557067</eqn>
+					<eqn>2463.83797163751</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>2471.27693790532</eqn>
+					<eqn>2463.86530196266</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>2467.81559617406</eqn>
+					<eqn>2464.07890570635</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>2470.92174697373</eqn>
+					<eqn>2465.88095452037</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>2468.33206738661</eqn>
+					<eqn>2469.31718151396</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>2464.75037573832</eqn>
+					<eqn>2466.9789325331</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>2466.38921774569</eqn>
+					<eqn>2466.84063780161</eqn>
 				</element>
 				<range min="2300" max="2500"/>
 				<units>kCal/Person/Day</units>
@@ -4240,37 +4240,37 @@ Calibration Parameter: fertilizer use &amp; crop production</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.253399339764084</eqn>
+					<eqn>0.256338860309171</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.256762517214984</eqn>
+					<eqn>0.256749506553783</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.253812946738777</eqn>
+					<eqn>0.258551496303204</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.251206396854945</eqn>
+					<eqn>0.257810866469172</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.257187877997713</eqn>
+					<eqn>0.257592710651722</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.25505745264051</eqn>
+					<eqn>0.2562980051981</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.253428756051224</eqn>
+					<eqn>0.248827805273795</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.25335734372564</eqn>
+					<eqn>0.250515261036624</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.251129901801561</eqn>
+					<eqn>0.251511933692817</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.250279053167907</eqn>
+					<eqn>0.253659795130409</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.254941693514874</eqn>
+					<eqn>0.253190572433813</eqn>
 				</element>
 				<range min="0" max="1"/>
 				<units>dmnl</units>
@@ -4288,39 +4288,7 @@ Calibration Parameter: fertilizer use &amp; crop production</doc>
 				<dimensions>
 					<dim name="Run"/>
 				</dimensions>
-				<element subscript="1">
-					<eqn>53691.40625</eqn>
-				</element>
-				<element subscript="2">
-					<eqn>50688.5528564453</eqn>
-				</element>
-				<element subscript="3">
-					<eqn>45650.7873535156</eqn>
-				</element>
-				<element subscript="4">
-					<eqn>51318.0541992188</eqn>
-				</element>
-				<element subscript="5">
-					<eqn>50016.0217285156</eqn>
-				</element>
-				<element subscript="6">
-					<eqn>51237.6403808594</eqn>
-				</element>
-				<element subscript="7">
-					<eqn>46853.7139892578</eqn>
-				</element>
-				<element subscript="8">
-					<eqn>45424.5758056641</eqn>
-				</element>
-				<element subscript="9">
-					<eqn>45988.1591796875</eqn>
-				</element>
-				<element subscript="10">
-					<eqn>48750.6103515625</eqn>
-				</element>
-				<element subscript="11">
-					<eqn>50847.4731445312</eqn>
-				</element>
+				<eqn>50000</eqn>
 				<range min="45000" max="55000"/>
 				<units>c$/person/year</units>
 			</aux>
@@ -4360,37 +4328,37 @@ Calibration Parameter: fertilizer use &amp; crop production</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>-6.75594776443608</eqn>
+					<eqn>-5.82656917933778</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>-3.72967746173969</eqn>
+					<eqn>-3.90337282581259</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>-5.34195476411239</eqn>
+					<eqn>-4.85109486696598</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>-5.39723958853022</eqn>
+					<eqn>-4.98601175258622</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>-3.35668524480443</eqn>
+					<eqn>-6.58059598554796</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>-3.38777066209275</eqn>
+					<eqn>-4.77330440976286</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>-5.70524098577618</eqn>
+					<eqn>-6.3443712960103</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>-4.54930941378484</eqn>
+					<eqn>-3.78449459044195</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>-5.82023735542822</eqn>
+					<eqn>-4.20639518979803</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>-6.45978374655834</eqn>
+					<eqn>-3.80837235626299</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>-4.74011747623286</eqn>
+					<eqn>-4.53963268889789</eqn>
 				</element>
 				<range min="-7.5" max="-2.5"/>
 				<units>dmnl</units>
@@ -4409,37 +4377,37 @@ Calibration Parameter: fertilizer use &amp; crop production</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>1.24445084352336</eqn>
+					<eqn>1.31972320053478</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>1.20675321427118</eqn>
+					<eqn>1.30142514085481</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>1.16758144113274</eqn>
+					<eqn>1.16358386160491</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>1.20010368161184</eqn>
+					<eqn>1.13501582154508</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>1.17422356071219</eqn>
+					<eqn>1.30417082172924</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>1.23324438475587</eqn>
+					<eqn>1.16949638974158</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>1.19823876251436</eqn>
+					<eqn>1.27909684281758</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>1.25776791203605</eqn>
+					<eqn>1.2206421879299</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>1.19389787473436</eqn>
+					<eqn>1.25411033692492</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>1.20597907692861</eqn>
+					<eqn>1.28884684469556</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>1.18138883192944</eqn>
+					<eqn>1.30754177270251</eqn>
 				</element>
 				<range min="0.1" max="2"/>
 				<units>dmnl</units>
@@ -4480,37 +4448,37 @@ Calibration Parameter: fertilizer use &amp; crop production</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.836303897031976</eqn>
+					<eqn>1.12003649315089</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.899831123973162</eqn>
+					<eqn>1.0616444498538</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>1.01194501840576</eqn>
+					<eqn>1.06480230970827</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.859259983048563</eqn>
+					<eqn>0.968427704568744</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.916512228086232</eqn>
+					<eqn>1.18617821447409</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>1.06090314359972</eqn>
+					<eqn>1.16434738092924</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.994478546578766</eqn>
+					<eqn>1.08511724446071</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>1.00325556143578</eqn>
+					<eqn>1.13360709647761</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.908239334396944</eqn>
+					<eqn>0.913656799967049</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.85682958836627</eqn>
+					<eqn>0.837200033430588</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>1.15054650029833</eqn>
+					<eqn>0.915815616334628</eqn>
 				</element>
 				<range min="0.5" max="1.5"/>
 				<units>dmnl</units>

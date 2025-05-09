@@ -5,7 +5,7 @@
 		<name>Emissions</name>
 		<uuid>c1d3b855-4d5a-4f55-b9fb-f7f0ee09a9e2</uuid>
 		<vendor>isee systems, inc.</vendor>
-		<product version="3.8" isee:build_number="3578" isee:saved_by_v1="true" lang="en">Stella Architect</product>
+		<product version="3.8.1" isee:build_number="3632" isee:saved_by_v1="true" lang="en">Stella Architect</product>
 	</header>
 	<sim_specs isee:sim_duration="0" isee:run_prefix="Run" isee:simulation_delay="0" isee:restore_on_start="false" isee:save_interval="1" method="RK4" time_units="Year" isee:instantaneous_flows="false" isee:ignore_module_errors="false" isee:strict_units="false" isee:loop_scores="false" isee:loop_exhaustive_allowed="1000">
 		<start>1980</start>
@@ -20,7 +20,7 @@
 		</dim>
 		<dim name="Run" size="11"/>
 	</dimensions>
-	<isee:prefs saved_runs="100" keep="false" show_module_prefix="true" live_update_on_drag="true" show_restore_buttons="false" layer="model" isee:design="Deluxe Tabbed Blue Gold" isee:design_custom="false" interface_secure_mode="true" interface_scale_ui="true" interface_max_page_width="10000" interface_max_page_height="10000" interface_min_page_width="0" interface_min_page_height="0" rerun_on_structure_change="false" rifp="true">
+	<isee:prefs saved_runs="100" keep="false" show_module_prefix="true" live_update_on_drag="true" show_restore_buttons="false" layer="model" isee:design="Deluxe Tabbed Blue Gold" isee:design_custom="false" interface_secure_mode="true" interface_scale_ui="true" interface_max_page_width="10000" interface_max_page_height="10000" interface_min_page_width="0" interface_min_page_height="0" rifp="true">
 		<isee:ignored_words>
 			<isee:ignored_word>WolrdTrans</isee:ignored_word>
 			<isee:ignored_word>WorldTrans</isee:ignored_word>
@@ -286,37 +286,37 @@
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>46.5941760922006</eqn>
+					<eqn>47.1939385468269</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>46.6825790504262</eqn>
+					<eqn>46.8512678846389</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>47.399883415658</eqn>
+					<eqn>46.647869906335</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>46.4682512476322</eqn>
+					<eqn>46.4283957991617</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>46.8464130041068</eqn>
+					<eqn>47.0192786651139</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>46.2918583688015</eqn>
+					<eqn>46.3810993620532</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>46.644063292309</eqn>
+					<eqn>47.0183735987729</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>47.068820855353</eqn>
+					<eqn>46.7946161083222</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>46.1800026181834</eqn>
+					<eqn>46.6111564726796</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>46.2272954257376</eqn>
+					<eqn>47.2238415802924</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>46.2333361009383</eqn>
+					<eqn>46.2106601362474</eqn>
 				</element>
 				<range min="40" max="60"/>
 				<units>MtCH4/Year</units>
@@ -328,37 +328,37 @@
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.00150052020542933</eqn>
+					<eqn>0.00138043618704386</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.00125886771092902</eqn>
+					<eqn>0.00188436913585423</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.0013630762112971</eqn>
+					<eqn>0.00170140563937891</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.00133557023465542</eqn>
+					<eqn>0.00105714574655106</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.00122336331406953</eqn>
+					<eqn>0.00141407891039042</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.00152318776411374</eqn>
+					<eqn>0.000983315113253074</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.00120249584727306</eqn>
+					<eqn>0.00128806085836546</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.0015850887370478</eqn>
+					<eqn>0.00125159813440723</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.00115143837020478</eqn>
+					<eqn>0.0018759555537824</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.0015260865204343</eqn>
+					<eqn>0.0010734971081224</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.00118494942475496</eqn>
+					<eqn>0.00195789804069171</eqn>
 				</element>
 				<range min="0" max="0.02"/>
 				<units>1/year</units>
@@ -370,37 +370,37 @@
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.00258433002385909</eqn>
+					<eqn>0.00253311480171622</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.00255345403513715</eqn>
+					<eqn>0.00261240576320483</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.00256114804605309</eqn>
+					<eqn>0.00251861910734259</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.00258185982752373</eqn>
+					<eqn>0.00259398373848102</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.0025652372937122</eqn>
+					<eqn>0.00260762223814321</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.00255724755093788</eqn>
+					<eqn>0.00257798457325704</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.0025788406661034</eqn>
+					<eqn>0.00252990595505722</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.00256444037109285</eqn>
+					<eqn>0.00254086470721458</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.00256410653701288</eqn>
+					<eqn>0.00255429769647277</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.0025565142297192</eqn>
+					<eqn>0.00251901841045212</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.00257306935190791</eqn>
+					<eqn>0.00252870173619867</eqn>
 				</element>
 				<range min="0" max="0.01"/>
 				<units>MtN2O/PCal</units>
@@ -467,37 +467,37 @@
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.00622812384607881</eqn>
+					<eqn>0.00653298983449661</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.00570941758481037</eqn>
+					<eqn>0.00638688603761957</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.00582153277406018</eqn>
+					<eqn>0.00543856545679672</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.00609034709121299</eqn>
+					<eqn>0.00644761216422079</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.0060018500370576</eqn>
+					<eqn>0.00591078140010142</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.00572012495433646</eqn>
+					<eqn>0.00554421988975699</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.00578483874769872</eqn>
+					<eqn>0.00709810043287368</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.00571476352930629</eqn>
+					<eqn>0.00643059912703692</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.00609210155176184</eqn>
+					<eqn>0.00483264092942037</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.00618399400309707</eqn>
+					<eqn>0.00619055906056605</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.00629712574742959</eqn>
+					<eqn>0.00637688653821354</eqn>
 				</element>
 				<range min="0" max="0.02"/>
 				<units>1/year</units>
@@ -509,37 +509,37 @@
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.0141655162899618</eqn>
+					<eqn>0.0142129772328121</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.0140259821913705</eqn>
+					<eqn>0.0141408139466588</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.013744974895307</eqn>
+					<eqn>0.0141808797668462</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.0140398799669163</eqn>
+					<eqn>0.0141786003109931</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.0142033584257853</eqn>
+					<eqn>0.0142843953122441</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.0140132943271042</eqn>
+					<eqn>0.0137689119570855</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.0143425036243224</eqn>
+					<eqn>0.0137235371478385</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.0139217353713028</eqn>
+					<eqn>0.0138254794790472</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.0139549485162041</eqn>
+					<eqn>0.0142423520153978</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.0141054096260387</eqn>
+					<eqn>0.0141386465153455</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.0142873500347</eqn>
+					<eqn>0.0137121983161589</eqn>
 				</element>
 				<range min="0" max="0.018"/>
 				<units>1/year</units>
@@ -551,37 +551,37 @@
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.117190965988368</eqn>
+					<eqn>0.117537265178118</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.117488630395924</eqn>
+					<eqn>0.116940447419395</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.116482481853165</eqn>
+					<eqn>0.117248916969225</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.116733437648821</eqn>
+					<eqn>0.116567411601101</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.116489512863346</eqn>
+					<eqn>0.11719242148432</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.117105092452572</eqn>
+					<eqn>0.117594465157147</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.116946510215145</eqn>
+					<eqn>0.117628132560534</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.118092784593607</eqn>
+					<eqn>0.116821078923832</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.117868433115119</eqn>
+					<eqn>0.117237212479135</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.116700992466426</eqn>
+					<eqn>0.116689486837245</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.117896044478014</eqn>
+					<eqn>0.117260806852507</eqn>
 				</element>
 				<range min="0" max="0.3"/>
 				<units>MtCH4/PCal</units>
@@ -593,37 +593,37 @@
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.0253830804479076</eqn>
+					<eqn>0.0252282717335756</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.0254486385321739</eqn>
+					<eqn>0.0253921760988776</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.0255047758761318</eqn>
+					<eqn>0.0248690078269835</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.0255032193351292</eqn>
+					<eqn>0.0255480057638301</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.0252820682713297</eqn>
+					<eqn>0.0253637218189895</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.0258056365082337</eqn>
+					<eqn>0.0257137661050333</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.0257664988738637</eqn>
+					<eqn>0.0251338821020282</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.0256078294847575</eqn>
+					<eqn>0.0258411535418893</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.0254874909365172</eqn>
+					<eqn>0.0254241736054862</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.0256455898655702</eqn>
+					<eqn>0.0259631779314983</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.0253566925957286</eqn>
+					<eqn>0.0257199848294815</eqn>
 				</element>
 				<range min="0" max="0.1"/>
 				<units>tN2O/tN</units>
@@ -635,37 +635,37 @@
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>3708.92120981118</eqn>
+					<eqn>3673.87490417699</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>3688.65615044839</eqn>
+					<eqn>3633.27460216117</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>3713.71695405038</eqn>
+					<eqn>3744.80408098111</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>3713.32263886377</eqn>
+					<eqn>3727.15917813323</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>3711.6026936559</eqn>
+					<eqn>3666.31577853178</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>3692.55326373202</eqn>
+					<eqn>3651.28899383896</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>3681.02288319972</eqn>
+					<eqn>3736.28953691542</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>3698.6356282013</eqn>
+					<eqn>3679.47700687751</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>3693.20764419321</eqn>
+					<eqn>3710.74862154801</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>3693.89927724778</eqn>
+					<eqn>3684.86629125688</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>3709.56926436029</eqn>
+					<eqn>3631.9415444219</eqn>
 				</element>
 				<range min="2000" max="4000"/>
 				<units>KtN2O/Year</units>
@@ -718,37 +718,37 @@
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>7.88630437873842</eqn>
+					<eqn>7.7885656409248</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>8.07429937281885</eqn>
+					<eqn>7.97141547763235</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>6.91151469950977</eqn>
+					<eqn>7.00990390976478</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>6.95485297124224</eqn>
+					<eqn>6.97051514521181</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>7.27329505484171</eqn>
+					<eqn>8.16316188471768</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>7.84473954012032</eqn>
+					<eqn>7.15747744999179</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>7.28272750221878</eqn>
+					<eqn>8.1107020847084</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>7.20952905042306</eqn>
+					<eqn>7.50331741578077</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>8.11853544506547</eqn>
+					<eqn>7.7532376802725</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>6.9482469328912</eqn>
+					<eqn>7.82552618940484</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>7.65899458930375</eqn>
+					<eqn>7.44964867415221</eqn>
 				</element>
 				<range min="5" max="15"/>
 				<units>bc$/Mp/year</units>
@@ -776,37 +776,37 @@ Calibration Parameter: CO2 from energy and industry</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.00989688025708244</eqn>
+					<eqn>0.00988151373339538</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.00984030287204493</eqn>
+					<eqn>0.00985035878608803</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.00987472329549282</eqn>
+					<eqn>0.00990845233694805</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.00988513420055027</eqn>
+					<eqn>0.00977084927538603</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.00986860726419759</eqn>
+					<eqn>0.00979085927623781</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.00983569537079015</eqn>
+					<eqn>0.00984814482231284</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.00975545385930811</eqn>
+					<eqn>0.00973090286804618</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.00985038886293982</eqn>
+					<eqn>0.00975774334578055</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.00983487898982708</eqn>
+					<eqn>0.00980799449725686</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.00987334445808028</eqn>
+					<eqn>0.00972823660557731</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.00987083797739768</eqn>
+					<eqn>0.00976390994017377</eqn>
 				</element>
 				<range min="0" max="0.05"/>
 				<units>tCH4/(p*year)</units>
@@ -834,37 +834,37 @@ Calibration Parameter: CO2 from energy and industry</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.000134289970458318</eqn>
+					<eqn>0.000133455180000047</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.000132715967308356</eqn>
+					<eqn>0.000131834894264659</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.000131559640631139</eqn>
+					<eqn>0.000131930923103988</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.000133206039934037</eqn>
+					<eqn>0.00013422835206227</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.000131922971761825</eqn>
+					<eqn>0.000133851231986182</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.000134397172983983</eqn>
+					<eqn>0.000134620028276744</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.000132765572590155</eqn>
+					<eqn>0.000132953901123946</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.000132563072806457</eqn>
+					<eqn>0.000134718319419789</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.000132641531827168</eqn>
+					<eqn>0.00013216212459037</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.000132382702490139</eqn>
+					<eqn>0.000133419846388055</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.00013241698525156</eqn>
+					<eqn>0.000131021417475699</eqn>
 				</element>
 				<range min="0" max="0.0002"/>
 				<units>tN2O/(p*year)</units>
@@ -876,37 +876,37 @@ Calibration Parameter: CO2 from energy and industry</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>-0.00516081763991076</eqn>
+					<eqn>0.00341062914847017</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.00141392805590999</eqn>
+					<eqn>0.00115973758584044</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.00131154970352512</eqn>
+					<eqn>-0.00200508678346893</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.00353509683802466</eqn>
+					<eqn>-0.0000602917382847247</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.000329982426914637</eqn>
+					<eqn>-0.0024375991950569</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.00199744513618237</eqn>
+					<eqn>0.00290552773263031</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.00208116612087394</eqn>
+					<eqn>0.00002698371503652</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>-0.00307743793303931</eqn>
+					<eqn>0.00388691982690125</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.00358411195654097</eqn>
+					<eqn>-0.00430228633622643</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>-0.000745662254590047</eqn>
+					<eqn>-0.00217254041089608</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>-0.00315309514016852</eqn>
+					<eqn>0.000615565999270618</eqn>
 				</element>
 				<range min="-1" max="1"/>
 				<units>dmnl</units>
@@ -918,37 +918,37 @@ Calibration Parameter: CO2 from energy and industry</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>-0.259115226043447</eqn>
+					<eqn>-0.293910410232176</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>-0.264417365787494</eqn>
+					<eqn>-0.281061546046411</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>-0.295370803758844</eqn>
+					<eqn>-0.293340476517998</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>-0.251335560929374</eqn>
+					<eqn>-0.254892278891438</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>-0.253749351827322</eqn>
+					<eqn>-0.268206248345944</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>-0.256771258898349</eqn>
+					<eqn>-0.297078727001828</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>-0.283230807660099</eqn>
+					<eqn>-0.285139637483316</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>-0.249798220510516</eqn>
+					<eqn>-0.294669564966997</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>-0.265068106925975</eqn>
+					<eqn>-0.255215089952655</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>-0.266139820341815</eqn>
+					<eqn>-0.255949267512751</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>-0.269622888943294</eqn>
+					<eqn>-0.292469302938956</eqn>
 				</element>
 				<range min="-1" max="1"/>
 				<units>dmnl</units>
@@ -980,37 +980,37 @@ Calibration Parameter: CO2 from energy and industry</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.00152154552092092</eqn>
+					<eqn>0.00153678183517922</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.00154022321528882</eqn>
+					<eqn>0.00152626314634792</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.00151342845916871</eqn>
+					<eqn>0.00152326039476918</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.00152949635336269</eqn>
+					<eqn>0.00153261900634673</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.00153279445557967</eqn>
+					<eqn>0.00152236914960533</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.00153091127471359</eqn>
+					<eqn>0.00152863058828187</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.00151393982560676</eqn>
+					<eqn>0.00153676341150658</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.00153808308335304</eqn>
+					<eqn>0.00152750889367944</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.00154023758426311</eqn>
+					<eqn>0.00152138286899679</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.00153444491541114</eqn>
+					<eqn>0.00152792265866077</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.00151949554725521</eqn>
+					<eqn>0.00152049530856747</eqn>
 				</element>
 				<range min="0" max="0.02"/>
 				<units>kt/mp/year</units>
@@ -1022,37 +1022,37 @@ Calibration Parameter: CO2 from energy and industry</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>8.11160753798768</eqn>
+					<eqn>8.07747844467145</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>8.11600237083633</eqn>
+					<eqn>8.09861218813305</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>8.07550355920407</eqn>
+					<eqn>8.08033912347111</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>8.08615586135235</eqn>
+					<eqn>8.09602958490526</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>8.116533819463</eqn>
+					<eqn>8.10525644450532</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>8.07426615643152</eqn>
+					<eqn>8.09379315738937</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>8.08482280715885</eqn>
+					<eqn>8.07494171445466</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>8.08050962796224</eqn>
+					<eqn>8.09257255696254</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>8.08938654641914</eqn>
+					<eqn>8.1003248593635</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>8.10690802036886</eqn>
+					<eqn>8.08468168969328</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>8.09507337333912</eqn>
+					<eqn>8.0844624923675</eqn>
 				</element>
 				<range min="1" max="10"/>
 				<units>dmnl</units>
@@ -1199,103 +1199,103 @@ coupling_factor_of_fossil_fuels_and_SO2_emissions[Run,Gas]</eqn>
 					<dim name="FossilFuelTypes"/>
 				</dimensions>
 				<element subscript="1, Gas">
-					<eqn>40.6805148194602</eqn>
+					<eqn>40.5591515213074</eqn>
 				</element>
 				<element subscript="1, Oil">
-					<eqn>13.1813816383749</eqn>
+					<eqn>13.0151806997328</eqn>
 				</element>
 				<element subscript="1, Coal">
-					<eqn>48.1944090331223</eqn>
+					<eqn>47.8860931548534</eqn>
 				</element>
 				<element subscript="2, Gas">
-					<eqn>41.2680651839665</eqn>
+					<eqn>40.8340857387623</eqn>
 				</element>
 				<element subscript="2, Oil">
-					<eqn>13.1155718058955</eqn>
+					<eqn>12.7208100952775</eqn>
 				</element>
 				<element subscript="2, Coal">
-					<eqn>49.2976318100226</eqn>
+					<eqn>49.2961692101244</eqn>
 				</element>
 				<element subscript="3, Gas">
-					<eqn>41.6863684310936</eqn>
+					<eqn>39.3663222275832</eqn>
 				</element>
 				<element subscript="3, Oil">
-					<eqn>12.3549131677925</eqn>
+					<eqn>12.1063030861618</eqn>
 				</element>
 				<element subscript="3, Coal">
-					<eqn>47.9007406837202</eqn>
+					<eqn>48.9582904733293</eqn>
 				</element>
 				<element subscript="4, Gas">
-					<eqn>38.820905088722</eqn>
+					<eqn>39.8380156858265</eqn>
 				</element>
 				<element subscript="4, Oil">
-					<eqn>11.8590797823683</eqn>
+					<eqn>12.8684768056325</eqn>
 				</element>
 				<element subscript="4, Coal">
-					<eqn>48.3525661367465</eqn>
+					<eqn>48.7954403078078</eqn>
 				</element>
 				<element subscript="5, Gas">
-					<eqn>41.7718354139561</eqn>
+					<eqn>41.9037044714361</eqn>
 				</element>
 				<element subscript="5, Oil">
-					<eqn>12.692225822472</eqn>
+					<eqn>11.9268111124341</eqn>
 				</element>
 				<element subscript="5, Coal">
-					<eqn>48.8699498086557</eqn>
+					<eqn>49.2618732481189</eqn>
 				</element>
 				<element subscript="6, Gas">
-					<eqn>40.9926520488128</eqn>
+					<eqn>38.1309435906815</eqn>
 				</element>
 				<element subscript="6, Oil">
-					<eqn>12.2736853042576</eqn>
+					<eqn>11.952692031974</eqn>
 				</element>
 				<element subscript="6, Coal">
-					<eqn>48.8603764052151</eqn>
+					<eqn>47.8614220619101</eqn>
 				</element>
 				<element subscript="7, Gas">
-					<eqn>41.6338301336513</eqn>
+					<eqn>41.5846158690123</eqn>
 				</element>
 				<element subscript="7, Oil">
-					<eqn>13.2528435564848</eqn>
+					<eqn>12.4762547666046</eqn>
 				</element>
 				<element subscript="7, Coal">
-					<eqn>47.73755894291</eqn>
+					<eqn>48.688034626109</eqn>
 				</element>
 				<element subscript="8, Gas">
-					<eqn>39.5605529457567</eqn>
+					<eqn>39.4703037585437</eqn>
 				</element>
 				<element subscript="8, Oil">
-					<eqn>11.9272029157175</eqn>
+					<eqn>12.158127717606</eqn>
 				</element>
 				<element subscript="8, Coal">
-					<eqn>48.7399670634028</eqn>
+					<eqn>48.5466865490232</eqn>
 				</element>
 				<element subscript="9, Gas">
-					<eqn>40.7640138125858</eqn>
+					<eqn>38.4491509936905</eqn>
 				</element>
 				<element subscript="9, Oil">
-					<eqn>12.0806319997023</eqn>
+					<eqn>13.2061846069397</eqn>
 				</element>
 				<element subscript="9, Coal">
-					<eqn>47.7560479282098</eqn>
+					<eqn>48.2097637516043</eqn>
 				</element>
 				<element subscript="10, Gas">
-					<eqn>39.6332631380029</eqn>
+					<eqn>39.8972134036645</eqn>
 				</element>
 				<element subscript="10, Oil">
-					<eqn>12.2731367896183</eqn>
+					<eqn>12.857352091734</eqn>
 				</element>
 				<element subscript="10, Coal">
-					<eqn>49.0049571910946</eqn>
+					<eqn>47.8751063995565</eqn>
 				</element>
 				<element subscript="11, Gas">
-					<eqn>39.7495151031794</eqn>
+					<eqn>40.2600472627576</eqn>
 				</element>
 				<element subscript="11, Oil">
-					<eqn>13.1240976312666</eqn>
+					<eqn>13.0764660474181</eqn>
 				</element>
 				<element subscript="11, Coal">
-					<eqn>49.2587363594941</eqn>
+					<eqn>49.1964372335555</eqn>
 				</element>
 				<range min="5" max="50"/>
 				<units>MtSO2/GtC</units>
@@ -1330,103 +1330,103 @@ coupling_factor_of_fossil_fuels_and_N2O_emissions[Run,Gas]</eqn>
 					<dim name="FossilFuelTypes"/>
 				</dimensions>
 				<element subscript="1, Gas">
-					<eqn>-0.0328224644799364</eqn>
+					<eqn>-0.0378592350297608</eqn>
 				</element>
 				<element subscript="1, Oil">
-					<eqn>-0.0219818010338877</eqn>
+					<eqn>-0.0216284717580222</eqn>
 				</element>
 				<element subscript="1, Coal">
-					<eqn>-0.0382037364551911</eqn>
+					<eqn>-0.0393365036691795</eqn>
 				</element>
 				<element subscript="2, Gas">
-					<eqn>-0.0401352461217227</eqn>
+					<eqn>-0.0363551582617188</eqn>
 				</element>
 				<element subscript="2, Oil">
-					<eqn>-0.0163739340614221</eqn>
+					<eqn>-0.0173098790607777</eqn>
 				</element>
 				<element subscript="2, Coal">
-					<eqn>-0.03753490770413</eqn>
+					<eqn>-0.0392327563951778</eqn>
 				</element>
 				<element subscript="3, Gas">
-					<eqn>-0.0339252071420253</eqn>
+					<eqn>-0.0378889615699175</eqn>
 				</element>
 				<element subscript="3, Oil">
-					<eqn>-0.0218881874292452</eqn>
+					<eqn>-0.0215247262153797</eqn>
 				</element>
 				<element subscript="3, Coal">
-					<eqn>-0.0386899904100873</eqn>
+					<eqn>-0.0385135112224802</eqn>
 				</element>
 				<element subscript="4, Gas">
-					<eqn>-0.0326853660586587</eqn>
+					<eqn>-0.038422660670585</eqn>
 				</element>
 				<element subscript="4, Oil">
-					<eqn>-0.015118777787347</eqn>
+					<eqn>-0.021411691322894</eqn>
 				</element>
 				<element subscript="4, Coal">
-					<eqn>-0.038323896329661</eqn>
+					<eqn>-0.0378009652004173</eqn>
 				</element>
 				<element subscript="5, Gas">
-					<eqn>-0.0322790124199917</eqn>
+					<eqn>-0.038771495157032</eqn>
 				</element>
 				<element subscript="5, Oil">
-					<eqn>-0.0173143838021461</eqn>
+					<eqn>-0.021496814757673</eqn>
 				</element>
 				<element subscript="5, Coal">
-					<eqn>-0.0398082643160705</eqn>
+					<eqn>-0.0377520470710494</eqn>
 				</element>
 				<element subscript="6, Gas">
-					<eqn>-0.0362259771360745</eqn>
+					<eqn>-0.0382526593264428</eqn>
 				</element>
 				<element subscript="6, Oil">
-					<eqn>-0.0206141667905482</eqn>
+					<eqn>-0.0174097178675047</eqn>
 				</element>
 				<element subscript="6, Coal">
-					<eqn>-0.0374761133201372</eqn>
+					<eqn>-0.0376968238587312</eqn>
 				</element>
 				<element subscript="7, Gas">
-					<eqn>-0.0332509287235138</eqn>
+					<eqn>-0.0366594891018153</eqn>
 				</element>
 				<element subscript="7, Oil">
-					<eqn>-0.0182565075137923</eqn>
+					<eqn>-0.02168368695896</eqn>
 				</element>
 				<element subscript="7, Coal">
-					<eqn>-0.0371627793941997</eqn>
+					<eqn>-0.038800714915737</eqn>
 				</element>
 				<element subscript="8, Gas">
-					<eqn>-0.0377868337927379</eqn>
+					<eqn>-0.0353443697325082</eqn>
 				</element>
 				<element subscript="8, Oil">
-					<eqn>-0.0188856630465064</eqn>
+					<eqn>-0.0206145435634436</eqn>
 				</element>
 				<element subscript="8, Coal">
-					<eqn>-0.038270663931124</eqn>
+					<eqn>-0.0393049424300927</eqn>
 				</element>
 				<element subscript="9, Gas">
-					<eqn>-0.039949048219627</eqn>
+					<eqn>-0.0383672142109015</eqn>
 				</element>
 				<element subscript="9, Oil">
-					<eqn>-0.0179472735776865</eqn>
+					<eqn>-0.0163833315261736</eqn>
 				</element>
 				<element subscript="9, Coal">
-					<eqn>-0.0366927653874033</eqn>
+					<eqn>-0.0387678819127596</eqn>
 				</element>
 				<element subscript="10, Gas">
-					<eqn>-0.0353500423982806</eqn>
+					<eqn>-0.0340753911233572</eqn>
 				</element>
 				<element subscript="10, Oil">
-					<eqn>-0.0159395386071423</eqn>
+					<eqn>-0.0213775290877226</eqn>
 				</element>
 				<element subscript="10, Coal">
-					<eqn>-0.0374983087903995</eqn>
+					<eqn>-0.038139021537129</eqn>
 				</element>
 				<element subscript="11, Gas">
-					<eqn>-0.0343888329492852</eqn>
+					<eqn>-0.0380067476000454</eqn>
 				</element>
 				<element subscript="11, Oil">
-					<eqn>-0.0161113137771465</eqn>
+					<eqn>-0.0180016317668657</eqn>
 				</element>
 				<element subscript="11, Coal">
-					<eqn>-0.0388861815763068</eqn>
+					<eqn>-0.038027912362296</eqn>
 				</element>
 				<range min="-0.1" max="0"/>
 				<units>1/year</units>
@@ -1447,103 +1447,103 @@ coupling_factor_of_fossil_fuels_and_N2O_emissions[Run,Gas]</eqn>
 					<dim name="FossilFuelTypes"/>
 				</dimensions>
 				<element subscript="1, Gas">
-					<eqn>171.984601152683</eqn>
+					<eqn>201.465666348508</eqn>
 				</element>
 				<element subscript="1, Oil">
-					<eqn>261.189406050118</eqn>
+					<eqn>295.270224475722</eqn>
 				</element>
 				<element subscript="1, Coal">
-					<eqn>499.981706987823</eqn>
+					<eqn>499.683961830485</eqn>
 				</element>
 				<element subscript="2, Gas">
-					<eqn>208.928180274727</eqn>
+					<eqn>230.871906440757</eqn>
 				</element>
 				<element subscript="2, Oil">
-					<eqn>254.784827901351</eqn>
+					<eqn>293.385616975099</eqn>
 				</element>
 				<element subscript="2, Coal">
-					<eqn>499.892698951108</eqn>
+					<eqn>499.997933241413</eqn>
 				</element>
 				<element subscript="3, Gas">
-					<eqn>198.801033478675</eqn>
+					<eqn>248.213266574465</eqn>
 				</element>
 				<element subscript="3, Oil">
-					<eqn>256.590357298165</eqn>
+					<eqn>273.189680786645</eqn>
 				</element>
 				<element subscript="3, Coal">
-					<eqn>499.65813834154</eqn>
+					<eqn>499.908304077782</eqn>
 				</element>
 				<element subscript="4, Gas">
-					<eqn>255.45169866909</eqn>
+					<eqn>240.906759370578</eqn>
 				</element>
 				<element subscript="4, Oil">
-					<eqn>294.384088487771</eqn>
+					<eqn>268.990235551983</eqn>
 				</element>
 				<element subscript="4, Coal">
-					<eqn>499.975176910158</eqn>
+					<eqn>499.541674296465</eqn>
 				</element>
 				<element subscript="5, Gas">
-					<eqn>211.751248911073</eqn>
+					<eqn>213.413276468901</eqn>
 				</element>
 				<element subscript="5, Oil">
-					<eqn>258.584138835687</eqn>
+					<eqn>266.192356546876</eqn>
 				</element>
 				<element subscript="5, Coal">
-					<eqn>499.948715804203</eqn>
+					<eqn>499.391037277619</eqn>
 				</element>
 				<element subscript="6, Gas">
-					<eqn>212.765160267172</eqn>
+					<eqn>242.853306175531</eqn>
 				</element>
 				<element subscript="6, Oil">
-					<eqn>278.854844521189</eqn>
+					<eqn>288.431886344061</eqn>
 				</element>
 				<element subscript="6, Coal">
-					<eqn>499.966415172956</eqn>
+					<eqn>499.743919816312</eqn>
 				</element>
 				<element subscript="7, Gas">
-					<eqn>181.60914382157</eqn>
+					<eqn>186.057602190583</eqn>
 				</element>
 				<element subscript="7, Oil">
-					<eqn>271.094672943115</eqn>
+					<eqn>260.402773733563</eqn>
 				</element>
 				<element subscript="7, Coal">
-					<eqn>499.448169960483</eqn>
+					<eqn>499.886724039979</eqn>
 				</element>
 				<element subscript="8, Gas">
-					<eqn>159.890553356819</eqn>
+					<eqn>269.366890260147</eqn>
 				</element>
 				<element subscript="8, Oil">
-					<eqn>286.605225207783</eqn>
+					<eqn>281.477972224244</eqn>
 				</element>
 				<element subscript="8, Coal">
-					<eqn>499.78524949136</eqn>
+					<eqn>499.668955843934</eqn>
 				</element>
 				<element subscript="9, Gas">
-					<eqn>275.856120766709</eqn>
+					<eqn>247.96613861046</eqn>
 				</element>
 				<element subscript="9, Oil">
-					<eqn>277.712870542331</eqn>
+					<eqn>283.638247811446</eqn>
 				</element>
 				<element subscript="9, Coal">
-					<eqn>499.759156664195</eqn>
+					<eqn>499.376130231638</eqn>
 				</element>
 				<element subscript="10, Gas">
-					<eqn>219.477427506578</eqn>
+					<eqn>189.42132517518</eqn>
 				</element>
 				<element subscript="10, Oil">
-					<eqn>265.472476031616</eqn>
+					<eqn>263.514753988773</eqn>
 				</element>
 				<element subscript="10, Coal">
-					<eqn>499.997581452717</eqn>
+					<eqn>499.517307432588</eqn>
 				</element>
 				<element subscript="11, Gas">
-					<eqn>295.581700926339</eqn>
+					<eqn>254.150963125176</eqn>
 				</element>
 				<element subscript="11, Oil">
-					<eqn>266.068830330786</eqn>
+					<eqn>277.618619012141</eqn>
 				</element>
 				<element subscript="11, Coal">
-					<eqn>499.855085044158</eqn>
+					<eqn>499.867419635302</eqn>
 				</element>
 				<range min="50" max="500"/>
 				<units>ktN2O/GtC</units>
@@ -1556,103 +1556,103 @@ coupling_factor_of_fossil_fuels_and_N2O_emissions[Run,Gas]</eqn>
 					<dim name="FossilFuelTypes"/>
 				</dimensions>
 				<element subscript="1, Gas">
-					<eqn>-0.0211433413966711</eqn>
+					<eqn>-0.020110179306523</eqn>
 				</element>
 				<element subscript="1, Oil">
-					<eqn>-0.00734945730195675</eqn>
+					<eqn>-0.00740164802278666</eqn>
 				</element>
 				<element subscript="1, Coal">
-					<eqn>-0.0248517680933008</eqn>
+					<eqn>-0.0219269250639575</eqn>
 				</element>
 				<element subscript="2, Gas">
-					<eqn>-0.0195682867631693</eqn>
+					<eqn>-0.0222585607554881</eqn>
 				</element>
 				<element subscript="2, Oil">
-					<eqn>-0.0106881220679452</eqn>
+					<eqn>-0.00950250323201985</eqn>
 				</element>
 				<element subscript="2, Coal">
-					<eqn>-0.0249084904400972</eqn>
+					<eqn>-0.0230631793833931</eqn>
 				</element>
 				<element subscript="3, Gas">
-					<eqn>-0.0219683450549513</eqn>
+					<eqn>-0.0159922684452161</eqn>
 				</element>
 				<element subscript="3, Oil">
-					<eqn>-0.00712501014477683</eqn>
+					<eqn>-0.00785605111825029</eqn>
 				</element>
 				<element subscript="3, Coal">
-					<eqn>-0.0212036340294948</eqn>
+					<eqn>-0.0239102110402654</eqn>
 				</element>
 				<element subscript="4, Gas">
-					<eqn>-0.0250981873959998</eqn>
+					<eqn>-0.0180274068961182</eqn>
 				</element>
 				<element subscript="4, Oil">
-					<eqn>-0.0100149402316524</eqn>
+					<eqn>-0.0100657460983705</eqn>
 				</element>
 				<element subscript="4, Coal">
-					<eqn>-0.0213270342375995</eqn>
+					<eqn>-0.0242322275241926</eqn>
 				</element>
 				<element subscript="5, Gas">
-					<eqn>-0.0246743290997296</eqn>
+					<eqn>-0.0159662944559778</eqn>
 				</element>
 				<element subscript="5, Oil">
-					<eqn>-0.00651882190044454</eqn>
+					<eqn>-0.00894960780867611</eqn>
 				</element>
 				<element subscript="5, Coal">
-					<eqn>-0.0251139032133151</eqn>
+					<eqn>-0.0235488285122248</eqn>
 				</element>
 				<element subscript="6, Gas">
-					<eqn>-0.0236574885043907</eqn>
+					<eqn>-0.022487563262682</eqn>
 				</element>
 				<element subscript="6, Oil">
-					<eqn>-0.00891271206336774</eqn>
+					<eqn>-0.00751095947198733</eqn>
 				</element>
 				<element subscript="6, Coal">
-					<eqn>-0.0232504556986044</eqn>
+					<eqn>-0.0235059632641902</eqn>
 				</element>
 				<element subscript="7, Gas">
-					<eqn>-0.0266533245333043</eqn>
+					<eqn>-0.0173887523372015</eqn>
 				</element>
 				<element subscript="7, Oil">
-					<eqn>-0.00986440419379989</eqn>
+					<eqn>-0.00829429923146959</eqn>
 				</element>
 				<element subscript="7, Coal">
-					<eqn>-0.0250494733714127</eqn>
+					<eqn>-0.0239695629221595</eqn>
 				</element>
 				<element subscript="8, Gas">
-					<eqn>-0.00677985648543207</eqn>
+					<eqn>-0.0182506573780137</eqn>
 				</element>
 				<element subscript="8, Oil">
-					<eqn>-0.00943040916915328</eqn>
+					<eqn>-0.0101972264283152</eqn>
 				</element>
 				<element subscript="8, Coal">
-					<eqn>-0.0239779709788522</eqn>
+					<eqn>-0.0234732591660036</eqn>
 				</element>
 				<element subscript="9, Gas">
-					<eqn>-0.0240547901390643</eqn>
+					<eqn>-0.0193046261385564</eqn>
 				</element>
 				<element subscript="9, Oil">
-					<eqn>-0.00744694122608041</eqn>
+					<eqn>-0.00836826428703715</eqn>
 				</element>
 				<element subscript="9, Coal">
-					<eqn>-0.0236426547985338</eqn>
+					<eqn>-0.0224511551590998</eqn>
 				</element>
 				<element subscript="10, Gas">
-					<eqn>-0.00669232433109103</eqn>
+					<eqn>-0.0223823191747997</eqn>
 				</element>
 				<element subscript="10, Oil">
-					<eqn>-0.00542659754096731</eqn>
+					<eqn>-0.00710452016504837</eqn>
 				</element>
 				<element subscript="10, Coal">
-					<eqn>-0.0223972520476423</eqn>
+					<eqn>-0.0231471378467073</eqn>
 				</element>
 				<element subscript="11, Gas">
-					<eqn>-0.0182815116798924</eqn>
+					<eqn>-0.0141654611605916</eqn>
 				</element>
 				<element subscript="11, Oil">
-					<eqn>-0.010972326019225</eqn>
+					<eqn>-0.00998738853850654</eqn>
 				</element>
 				<element subscript="11, Coal">
-					<eqn>-0.0224076892805985</eqn>
+					<eqn>-0.0238886326160847</eqn>
 				</element>
 				<range min="-0.05" max="0"/>
 				<units>1/year</units>
@@ -1673,103 +1673,103 @@ coupling_factor_of_fossil_fuels_and_N2O_emissions[Run,Gas]</eqn>
 					<dim name="FossilFuelTypes"/>
 				</dimensions>
 				<element subscript="1, Gas">
-					<eqn>27.393898945809</eqn>
+					<eqn>28.9931589381976</eqn>
 				</element>
 				<element subscript="1, Oil">
-					<eqn>19.7704693941713</eqn>
+					<eqn>19.9350267627743</eqn>
 				</element>
 				<element subscript="1, Coal">
-					<eqn>34.1138701996401</eqn>
+					<eqn>34.3391444277597</eqn>
 				</element>
 				<element subscript="2, Gas">
-					<eqn>26.8895230591381</eqn>
+					<eqn>29.3679006770564</eqn>
 				</element>
 				<element subscript="2, Oil">
-					<eqn>19.9543757461777</eqn>
+					<eqn>18.7754911291848</eqn>
 				</element>
 				<element subscript="2, Coal">
-					<eqn>34.9380489509157</eqn>
+					<eqn>34.5774915276855</eqn>
 				</element>
 				<element subscript="3, Gas">
-					<eqn>28.6631220846765</eqn>
+					<eqn>28.0488051412272</eqn>
 				</element>
 				<element subscript="3, Oil">
-					<eqn>19.7124982905883</eqn>
+					<eqn>18.8543483176571</eqn>
 				</element>
 				<element subscript="3, Coal">
-					<eqn>34.1719540912332</eqn>
+					<eqn>34.1875911803229</eqn>
 				</element>
 				<element subscript="4, Gas">
-					<eqn>29.1106297422698</eqn>
+					<eqn>28.8626685112735</eqn>
 				</element>
 				<element subscript="4, Oil">
-					<eqn>18.5799408766847</eqn>
+					<eqn>18.0865629248543</eqn>
 				</element>
 				<element subscript="4, Coal">
-					<eqn>34.0373788749238</eqn>
+					<eqn>34.1069751075751</eqn>
 				</element>
 				<element subscript="5, Gas">
-					<eqn>25.8674501905189</eqn>
+					<eqn>28.0494397100584</eqn>
 				</element>
 				<element subscript="5, Oil">
-					<eqn>18.9225321381364</eqn>
+					<eqn>19.1749580420471</eqn>
 				</element>
 				<element subscript="5, Coal">
-					<eqn>34.0124765920348</eqn>
+					<eqn>34.465303273463</eqn>
 				</element>
 				<element subscript="6, Gas">
-					<eqn>31.1490954185778</eqn>
+					<eqn>29.6810315512137</eqn>
 				</element>
 				<element subscript="6, Oil">
-					<eqn>17.8862365633401</eqn>
+					<eqn>18.1460736494616</eqn>
 				</element>
 				<element subscript="6, Coal">
-					<eqn>34.5254089599203</eqn>
+					<eqn>34.333881456353</eqn>
 				</element>
 				<element subscript="7, Gas">
-					<eqn>30.81850234847</eqn>
+					<eqn>29.9757022411908</eqn>
 				</element>
 				<element subscript="7, Oil">
-					<eqn>20.0572486603805</eqn>
+					<eqn>18.4234981846902</eqn>
 				</element>
 				<element subscript="7, Coal">
-					<eqn>34.7896962933953</eqn>
+					<eqn>34.3374729261112</eqn>
 				</element>
 				<element subscript="8, Gas">
-					<eqn>26.8822201236561</eqn>
+					<eqn>29.5694628130744</eqn>
 				</element>
 				<element subscript="8, Oil">
-					<eqn>17.9533982077352</eqn>
+					<eqn>18.7730806474411</eqn>
 				</element>
 				<element subscript="8, Coal">
-					<eqn>34.1258390502604</eqn>
+					<eqn>34.8101577807927</eqn>
 				</element>
 				<element subscript="9, Gas">
-					<eqn>26.0582731898734</eqn>
+					<eqn>26.4050988042035</eqn>
 				</element>
 				<element subscript="9, Oil">
-					<eqn>19.9662795027802</eqn>
+					<eqn>19.6601848865567</eqn>
 				</element>
 				<element subscript="9, Coal">
-					<eqn>34.1184358861091</eqn>
+					<eqn>34.4714923471343</eqn>
 				</element>
 				<element subscript="10, Gas">
-					<eqn>27.6908849887449</eqn>
+					<eqn>26.7837633322007</eqn>
 				</element>
 				<element subscript="10, Oil">
-					<eqn>19.5642649940828</eqn>
+					<eqn>19.740012528718</eqn>
 				</element>
 				<element subscript="10, Coal">
-					<eqn>34.3202263669496</eqn>
+					<eqn>34.3723994048129</eqn>
 				</element>
 				<element subscript="11, Gas">
-					<eqn>26.5881417309584</eqn>
+					<eqn>28.3156701787828</eqn>
 				</element>
 				<element subscript="11, Oil">
-					<eqn>19.2621426836492</eqn>
+					<eqn>19.8223289150172</eqn>
 				</element>
 				<element subscript="11, Coal">
-					<eqn>34.188818193719</eqn>
+					<eqn>34.4253397019558</eqn>
 				</element>
 				<range min="5" max="50"/>
 				<units>MtCH4/GtC</units>
@@ -1782,103 +1782,103 @@ coupling_factor_of_fossil_fuels_and_N2O_emissions[Run,Gas]</eqn>
 					<dim name="FossilFuelTypes"/>
 				</dimensions>
 				<element subscript="1, Gas">
-					<eqn>-0.0704126306732364</eqn>
+					<eqn>-0.0738822287618382</eqn>
 				</element>
 				<element subscript="1, Oil">
-					<eqn>-0.0441870926545024</eqn>
+					<eqn>-0.0430298579221881</eqn>
 				</element>
 				<element subscript="1, Coal">
-					<eqn>-0.00155037933533359</eqn>
+					<eqn>-0.00180463807066318</eqn>
 				</element>
 				<element subscript="2, Gas">
-					<eqn>-0.0708521644539374</eqn>
+					<eqn>-0.0735123527434969</eqn>
 				</element>
 				<element subscript="2, Oil">
-					<eqn>-0.0448897363707178</eqn>
+					<eqn>-0.0468485047853258</eqn>
 				</element>
 				<element subscript="2, Coal">
-					<eqn>-0.00119671786429137</eqn>
+					<eqn>-0.00143021655142302</eqn>
 				</element>
 				<element subscript="3, Gas">
-					<eqn>-0.0776548038767236</eqn>
+					<eqn>-0.0777382905413968</eqn>
 				</element>
 				<element subscript="3, Oil">
-					<eqn>-0.0463085794764521</eqn>
+					<eqn>-0.0433579445389856</eqn>
 				</element>
 				<element subscript="3, Coal">
-					<eqn>-0.00131595994087041</eqn>
+					<eqn>-0.00116501351590226</eqn>
 				</element>
 				<element subscript="4, Gas">
-					<eqn>-0.0773752163809101</eqn>
+					<eqn>-0.0730929397584135</eqn>
 				</element>
 				<element subscript="4, Oil">
-					<eqn>-0.0425889602018602</eqn>
+					<eqn>-0.0449303367347093</eqn>
 				</element>
 				<element subscript="4, Coal">
-					<eqn>-0.00147234329228102</eqn>
+					<eqn>-0.00166099507324211</eqn>
 				</element>
 				<element subscript="5, Gas">
-					<eqn>-0.0735186693901902</eqn>
+					<eqn>-0.069574859143171</eqn>
 				</element>
 				<element subscript="5, Oil">
-					<eqn>-0.0421455028752038</eqn>
+					<eqn>-0.0440081633243242</eqn>
 				</element>
 				<element subscript="5, Coal">
-					<eqn>-0.00147415595494226</eqn>
+					<eqn>-0.00115594961468826</eqn>
 				</element>
 				<element subscript="6, Gas">
-					<eqn>-0.0727213701684917</eqn>
+					<eqn>-0.0675800837087286</eqn>
 				</element>
 				<element subscript="6, Oil">
-					<eqn>-0.0461233026413358</eqn>
+					<eqn>-0.0448958636132245</eqn>
 				</element>
 				<element subscript="6, Coal">
-					<eqn>-0.00192512445339013</eqn>
+					<eqn>-0.00164191510341385</eqn>
 				</element>
 				<element subscript="7, Gas">
-					<eqn>-0.0771054735152309</eqn>
+					<eqn>-0.0667593343860747</eqn>
 				</element>
 				<element subscript="7, Oil">
-					<eqn>-0.0456810428123211</eqn>
+					<eqn>-0.0430786077909544</eqn>
 				</element>
 				<element subscript="7, Coal">
-					<eqn>-0.00115387311048025</eqn>
+					<eqn>-0.00164257429622941</eqn>
 				</element>
 				<element subscript="8, Gas">
-					<eqn>-0.0704273397088488</eqn>
+					<eqn>-0.0714566555306576</eqn>
 				</element>
 				<element subscript="8, Oil">
-					<eqn>-0.0457394806972337</eqn>
+					<eqn>-0.0452508323005132</eqn>
 				</element>
 				<element subscript="8, Coal">
-					<eqn>-0.000926576198595074</eqn>
+					<eqn>-0.00122629403320096</eqn>
 				</element>
 				<element subscript="9, Gas">
-					<eqn>-0.0766066403153681</eqn>
+					<eqn>-0.0680890977687438</eqn>
 				</element>
 				<element subscript="9, Oil">
-					<eqn>-0.0467510788049951</eqn>
+					<eqn>-0.0466002634893006</eqn>
 				</element>
 				<element subscript="9, Coal">
-					<eqn>-0.00154488641817832</eqn>
+					<eqn>-0.00184712548908113</eqn>
 				</element>
 				<element subscript="10, Gas">
-					<eqn>-0.0699002466295418</eqn>
+					<eqn>-0.0746311060292363</eqn>
 				</element>
 				<element subscript="10, Oil">
-					<eqn>-0.0428815328256684</eqn>
+					<eqn>-0.0452103350881023</eqn>
 				</element>
 				<element subscript="10, Coal">
-					<eqn>-0.00117678772987966</eqn>
+					<eqn>-0.00164216535253828</eqn>
 				</element>
 				<element subscript="11, Gas">
-					<eqn>-0.0654106320115987</eqn>
+					<eqn>-0.0764324265725068</eqn>
 				</element>
 				<element subscript="11, Oil">
-					<eqn>-0.0464159710649554</eqn>
+					<eqn>-0.0449564527358342</eqn>
 				</element>
 				<element subscript="11, Coal">
-					<eqn>-0.00104982810469746</eqn>
+					<eqn>-0.00144935755762309</eqn>
 				</element>
 				<range min="-0.2" max="0"/>
 				<units>1/year</units>
@@ -2054,37 +2054,37 @@ GtC_to_MtCO2</eqn>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>3.34956988790426</eqn>
+					<eqn>3.3367151348752</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>3.33126809903921</eqn>
+					<eqn>3.34694777428167</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>3.34226595388792</eqn>
+					<eqn>3.35424505766197</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>3.35348066465228</eqn>
+					<eqn>3.35480238425458</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>3.32742563899142</eqn>
+					<eqn>3.34874492160641</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>3.34034855073313</eqn>
+					<eqn>3.33744366234378</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>3.33814172288568</eqn>
+					<eqn>3.34781609527127</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>3.34366715492195</eqn>
+					<eqn>3.33499789155642</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>3.34346277176485</eqn>
+					<eqn>3.33711927363366</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>3.36122851548417</eqn>
+					<eqn>3.35426091529706</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>3.34998602448487</eqn>
+					<eqn>3.33615842411308</eqn>
 				</element>
 				<range min="0" max="10"/>
 				<units>dmnl</units>

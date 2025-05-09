@@ -5,7 +5,7 @@
 		<name>Demographics</name>
 		<uuid>1fd320fd-cd6f-4e4c-851b-17445ddaf4ba</uuid>
 		<vendor>isee systems, inc.</vendor>
-		<product version="3.8" isee:build_number="3578" isee:saved_by_v1="true" lang="en">Stella Architect</product>
+		<product version="3.8.1" isee:build_number="3632" isee:saved_by_v1="true" lang="en">Stella Architect</product>
 	</header>
 	<sim_specs isee:sim_duration="0" isee:run_prefix="Run" isee:simulation_delay="0" isee:restore_on_start="false" isee:save_interval="1" method="RK4" time_units="Year" isee:instantaneous_flows="false" isee:ignore_module_errors="false" isee:strict_units="false" isee:loop_scores="false" isee:loop_exhaustive_allowed="1000">
 		<start>1980</start>
@@ -22,7 +22,7 @@
 		<dim name="PopCohortLen5" size="5"/>
 		<dim name="Run" size="11"/>
 	</dimensions>
-	<isee:prefs saved_runs="100" keep="false" show_module_prefix="true" live_update_on_drag="true" show_restore_buttons="false" layer="model" isee:design="Deluxe Tabbed Blue Gold" isee:design_custom="false" interface_secure_mode="true" interface_scale_ui="true" interface_max_page_width="10000" interface_max_page_height="10000" interface_min_page_width="0" interface_min_page_height="0" rerun_on_structure_change="false" rifp="true">
+	<isee:prefs saved_runs="100" keep="false" show_module_prefix="true" live_update_on_drag="true" show_restore_buttons="false" layer="model" isee:design="Deluxe Tabbed Blue Gold" isee:design_custom="false" interface_secure_mode="true" interface_scale_ui="true" interface_max_page_width="10000" interface_max_page_height="10000" interface_min_page_width="0" interface_min_page_height="0" rifp="true">
 		<isee:ignored_words>
 			<isee:ignored_word>WolrdTrans</isee:ignored_word>
 			<isee:ignored_word>WorldTrans</isee:ignored_word>
@@ -947,37 +947,37 @@ Calibration Parameter: fertility</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>3.86556507172762</eqn>
+					<eqn>3.86654682504184</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>3.86604629243923</eqn>
+					<eqn>3.86584462772371</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>3.86543772130049</eqn>
+					<eqn>3.86465317045619</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>3.86539872650743</eqn>
+					<eqn>3.86618912446917</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>3.86519979064949</eqn>
+					<eqn>3.86455138810428</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>3.86604302252096</eqn>
+					<eqn>3.86438488647499</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>3.86508794858995</eqn>
+					<eqn>3.86526844827971</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>3.86619754990372</eqn>
+					<eqn>3.86573260043333</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>3.86632304149764</eqn>
+					<eqn>3.86627417969285</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>3.86504329588851</eqn>
+					<eqn>3.86654831303791</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>3.86536236393075</eqn>
+					<eqn>3.86627043404756</eqn>
 				</element>
 				<range min="0" max="10"/>
 				<units>1</units>
@@ -996,37 +996,37 @@ Calibration Parameter: fertility</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>-0.415488670891843</eqn>
+					<eqn>-0.415404375513128</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>-0.418154172152851</eqn>
+					<eqn>-0.4184833716333</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>-0.416808840212777</eqn>
+					<eqn>-0.41741303516917</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>-0.416962170324732</eqn>
+					<eqn>-0.417227530615286</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>-0.415961257252259</eqn>
+					<eqn>-0.415927575709458</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>-0.418826440818375</eqn>
+					<eqn>-0.416483688004058</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>-0.418201495534813</eqn>
+					<eqn>-0.418683325401059</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>-0.417426074845795</eqn>
+					<eqn>-0.418940565193522</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>-0.418281692186459</eqn>
+					<eqn>-0.416489489582357</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>-0.416180157323799</eqn>
+					<eqn>-0.4169438370853</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>-0.416493409859623</eqn>
+					<eqn>-0.415113639815774</eqn>
 				</element>
 				<range min="-2" max="0"/>
 				<units>dmnl</units>
@@ -1038,37 +1038,37 @@ Calibration Parameter: deaths 0 years</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.747393870927074</eqn>
+					<eqn>0.755574094618098</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.746050055858542</eqn>
+					<eqn>0.750178716282223</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.748992945888253</eqn>
+					<eqn>0.75605520457317</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.74866353939336</eqn>
+					<eqn>0.748626635305544</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.748744316992555</eqn>
+					<eqn>0.7489993042759</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.746202032950228</eqn>
+					<eqn>0.747387162086523</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.754468608833354</eqn>
+					<eqn>0.750990007843764</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.7490944202355</eqn>
+					<eqn>0.750219032758905</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.747192931625594</eqn>
+					<eqn>0.748351759635037</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.748424287665064</eqn>
+					<eqn>0.748525017109189</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.751505089035358</eqn>
+					<eqn>0.746003996809584</eqn>
 				</element>
 				<range min="0" max="2"/>
 				<units>dmnl</units>
@@ -1080,37 +1080,37 @@ Calibration Parameter: deaths 0 years</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>-1.46320969937787</eqn>
+					<eqn>-1.43726022441734</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>-1.42907633462527</eqn>
+					<eqn>-1.45657493474399</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>-1.4287491681586</eqn>
+					<eqn>-1.44825882453926</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>-1.42930839106116</eqn>
+					<eqn>-1.4513875805645</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>-1.44219459630878</eqn>
+					<eqn>-1.45724947183827</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>-1.46465862244187</eqn>
+					<eqn>-1.4539668225115</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>-1.43845009031809</eqn>
+					<eqn>-1.45537119063669</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>-1.4331973679847</eqn>
+					<eqn>-1.45223020143962</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>-1.45191448027821</eqn>
+					<eqn>-1.45994468425414</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>-1.45962441239441</eqn>
+					<eqn>-1.4336883829087</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>-1.42862215413014</eqn>
+					<eqn>-1.45038984307068</eqn>
 				</element>
 				<range min="-3" max="0"/>
 				<units>dmnl</units>
@@ -1133,37 +1133,37 @@ Calibration Parameter: deaths 1-20 years</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.509495464718421</eqn>
+					<eqn>0.507264000946622</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.510965001130539</eqn>
+					<eqn>0.510897638363021</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.509243587186901</eqn>
+					<eqn>0.508960287296985</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.508280658819573</eqn>
+					<eqn>0.507476476032896</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.510355184119635</eqn>
+					<eqn>0.508473266284527</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.507750129620123</eqn>
+					<eqn>0.509665719780559</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.511010899650099</eqn>
+					<eqn>0.51244204824358</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.508959637124295</eqn>
+					<eqn>0.507056464932537</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.510592765390964</eqn>
+					<eqn>0.51181777801357</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.510415692413864</eqn>
+					<eqn>0.51061131464931</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.509219446572105</eqn>
+					<eqn>0.512766887222148</eqn>
 				</element>
 				<range min="0" max="3"/>
 				<units>dmnl</units>
@@ -1175,37 +1175,37 @@ Calibration Parameter: deaths 1-20 years</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>-1.69413734090987</eqn>
+					<eqn>-1.61061224678804</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>-1.66693227507111</eqn>
+					<eqn>-1.64289596078147</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>-1.65306228558978</eqn>
+					<eqn>-1.62989146258614</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>-1.65290314748342</eqn>
+					<eqn>-1.69305420557052</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>-1.69774176093923</eqn>
+					<eqn>-1.63758202711377</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>-1.65452821471548</eqn>
+					<eqn>-1.67398105603195</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>-1.69104227898005</eqn>
+					<eqn>-1.64679061308663</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>-1.66719944123507</eqn>
+					<eqn>-1.60437359078069</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>-1.67925502398555</eqn>
+					<eqn>-1.65287901244641</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>-1.6564413567678</eqn>
+					<eqn>-1.61230113150679</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>-1.6410874334845</eqn>
+					<eqn>-1.64943513008397</eqn>
 				</element>
 				<range min="-3" max="0"/>
 				<units>dmnl</units>
@@ -1228,37 +1228,37 @@ Calibration Parameter: deaths 20-40 years</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>1.72444070787465</eqn>
+					<eqn>1.75216930108689</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>1.72898347295795</eqn>
+					<eqn>1.7333203805481</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>1.72932151918393</eqn>
+					<eqn>1.73007265905967</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>1.73844670945009</eqn>
+					<eqn>1.74602973535107</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>1.72398162351463</eqn>
+					<eqn>1.7474190779134</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>1.74101975194713</eqn>
+					<eqn>1.73556060318058</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>1.72495310887795</eqn>
+					<eqn>1.75192658296858</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>1.72789768419447</eqn>
+					<eqn>1.7392150415159</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>1.72571432088322</eqn>
+					<eqn>1.71743792367821</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>1.73915684972338</eqn>
+					<eqn>1.74473933868831</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>1.72249736299612</eqn>
+					<eqn>1.73428250642247</eqn>
 				</element>
 				<range min="0" max="3"/>
 				<units>dmnl</units>
@@ -1270,37 +1270,37 @@ Calibration Parameter: deaths 20-40 years</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>-0.749080057709019</eqn>
+					<eqn>-0.756168952673463</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>-0.802212984252718</eqn>
+					<eqn>-0.728965208972654</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>-0.740353905107548</eqn>
+					<eqn>-0.771992029450312</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>-0.762146833224966</eqn>
+					<eqn>-0.80263021747971</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>-0.773790830753049</eqn>
+					<eqn>-0.776623432839009</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>-0.803843319152591</eqn>
+					<eqn>-0.734149436149609</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>-0.765161611062991</eqn>
+					<eqn>-0.754985442591558</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>-0.733194560752143</eqn>
+					<eqn>-0.772767823140365</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>-0.747594848354482</eqn>
+					<eqn>-0.806471670359193</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>-0.80096599984996</eqn>
+					<eqn>-0.755589230928798</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>-0.745178644935523</eqn>
+					<eqn>-0.746587617464935</eqn>
 				</element>
 				<range min="-3" max="0"/>
 				<units>dmnl</units>
@@ -1323,37 +1323,37 @@ Calibration Parameter: deaths 40-60 years</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.803803811658547</eqn>
+					<eqn>0.793154617703965</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.800135158614597</eqn>
+					<eqn>0.798513177255622</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.801392936869281</eqn>
+					<eqn>0.795016821400297</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.796876863999594</eqn>
+					<eqn>0.802672576666365</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.803213911907333</eqn>
+					<eqn>0.804013389390757</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.802230086322771</eqn>
+					<eqn>0.800491361448086</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.797812076488847</eqn>
+					<eqn>0.806666736448911</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.79510708866912</eqn>
+					<eqn>0.799016975680395</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.80223419447167</eqn>
+					<eqn>0.805019422458335</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.796224733400238</eqn>
+					<eqn>0.794334100255085</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.795794138534121</eqn>
+					<eqn>0.79820459094681</eqn>
 				</element>
 				<range min="0" max="3"/>
 				<units>dmnl</units>
@@ -1364,39 +1364,7 @@ Calibration Parameter: deaths 40-60 years</doc>
 				<dimensions>
 					<dim name="Run"/>
 				</dimensions>
-				<element subscript="1">
-					<eqn>-0.686138326580324</eqn>
-				</element>
-				<element subscript="2">
-					<eqn>-0.683183207148104</eqn>
-				</element>
-				<element subscript="3">
-					<eqn>-0.699900365383742</eqn>
-				</element>
-				<element subscript="4">
-					<eqn>-0.698990991717699</eqn>
-				</element>
-				<element subscript="5">
-					<eqn>-0.717651780922415</eqn>
-				</element>
-				<element subscript="6">
-					<eqn>-0.719260778941545</eqn>
-				</element>
-				<element subscript="7">
-					<eqn>-0.665768494453916</eqn>
-				</element>
-				<element subscript="8">
-					<eqn>-0.664761145779846</eqn>
-				</element>
-				<element subscript="9">
-					<eqn>-0.673514729771572</eqn>
-				</element>
-				<element subscript="10">
-					<eqn>-0.659991418804611</eqn>
-				</element>
-				<element subscript="11">
-					<eqn>-0.690065606479504</eqn>
-				</element>
+				<eqn>-0.704331319619958</eqn>
 				<range min="-3" max="0"/>
 				<units>dmnl</units>
 			</aux>
@@ -1418,37 +1386,37 @@ Calibration Parameter: deaths 60-80 years</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.979699063194367</eqn>
+					<eqn>0.973637060902348</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.97353673010956</eqn>
+					<eqn>0.980298457152857</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.968876879579172</eqn>
+					<eqn>0.96608520065204</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.968196884128635</eqn>
+					<eqn>0.979506699252514</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.977647011017272</eqn>
+					<eqn>0.981585221923764</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.966900957015255</eqn>
+					<eqn>0.965849402747783</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.97001235994176</eqn>
+					<eqn>0.974499262899311</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.96469133090296</eqn>
+					<eqn>0.967082385349115</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.971895346921288</eqn>
+					<eqn>0.979298952440624</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.977496188198712</eqn>
+					<eqn>0.96141627560146</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.981739336827536</eqn>
+					<eqn>0.968514467433112</eqn>
 				</element>
 				<range min="0" max="3"/>
 				<units>dmnl</units>
@@ -1460,37 +1428,37 @@ Calibration Parameter: deaths 60-80 years</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>-0.689891549004428</eqn>
+					<eqn>-0.746890684275637</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>-0.657869578482758</eqn>
+					<eqn>-0.669978502386263</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>-0.656994006575251</eqn>
+					<eqn>-0.761121700048168</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>-0.703549486050854</eqn>
+					<eqn>-0.737202011480573</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>-0.690500428437764</eqn>
+					<eqn>-0.69975822057693</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>-0.701768800915625</eqn>
+					<eqn>-0.651451715042911</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>-0.696082917366317</eqn>
+					<eqn>-0.730051440687858</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>-0.676851517905849</eqn>
+					<eqn>-0.764243429783678</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>-0.671149222511976</eqn>
+					<eqn>-0.693976234197247</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>-0.740617278183824</eqn>
+					<eqn>-0.666156645583261</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>-0.683113457199364</eqn>
+					<eqn>-0.667155372886324</eqn>
 				</element>
 				<range min="-3" max="0"/>
 				<units>dmnl</units>
@@ -1513,37 +1481,37 @@ Calibration Parameter: deaths over 80 years</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.501482661356188</eqn>
+					<eqn>0.500776495678994</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.501251712406838</eqn>
+					<eqn>0.501639886305253</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.501079306116631</eqn>
+					<eqn>0.502118714454124</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.499935736022117</eqn>
+					<eqn>0.500782044305194</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.501567087970912</eqn>
+					<eqn>0.500333306783022</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.502140658753369</eqn>
+					<eqn>0.500635889832655</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.500070402547784</eqn>
+					<eqn>0.502137677341466</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.50141541093674</eqn>
+					<eqn>0.499722439622769</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.501995627599684</eqn>
+					<eqn>0.501029628884143</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.500529631048503</eqn>
+					<eqn>0.500039046672688</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.500948266290288</eqn>
+					<eqn>0.499323853145096</eqn>
 				</element>
 				<range min="0" max="3"/>
 				<units>dmnl</units>
@@ -1555,37 +1523,37 @@ Calibration Parameter: deaths over 80 years</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>-0.532777493616394</eqn>
+					<eqn>-0.514886505448855</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>-0.512609414822904</eqn>
+					<eqn>-0.528612182243955</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>-0.529605865770173</eqn>
+					<eqn>-0.513631949012028</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>-0.522273524491204</eqn>
+					<eqn>-0.508229012609065</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>-0.528094929184839</eqn>
+					<eqn>-0.526682883287043</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>-0.517311887817209</eqn>
+					<eqn>-0.53034188132173</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>-0.523629949487763</eqn>
+					<eqn>-0.510056138411324</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>-0.519278254798192</eqn>
+					<eqn>-0.534554213189067</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>-0.531992426752559</eqn>
+					<eqn>-0.52650501706183</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>-0.51740455953408</eqn>
+					<eqn>-0.531732085736493</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>-0.530700660539444</eqn>
+					<eqn>-0.519578976199422</eqn>
 				</element>
 				<range min="-3" max="0"/>
 				<units>dmnl</units>
@@ -1646,37 +1614,37 @@ AGECOUNT(Aged_65_to_75_years, 0, 5)</eqn>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>23.9578910744464</eqn>
+					<eqn>23.9987073596335</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>23.9672111952078</eqn>
+					<eqn>24.026513785714</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>23.967999707114</eqn>
+					<eqn>24.0459843371566</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>24.009977844629</eqn>
+					<eqn>23.976165612643</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>23.9952268240154</eqn>
+					<eqn>23.9942877372022</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>24.0276027244472</eqn>
+					<eqn>23.9883564111532</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>23.9974149927524</eqn>
+					<eqn>23.9752910865248</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>24.012629995107</eqn>
+					<eqn>24.0170755940018</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>24.0181084498744</eqn>
+					<eqn>23.9604599837509</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>24.0209771680071</eqn>
+					<eqn>24.0127053528268</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>23.9952486735711</eqn>
+					<eqn>23.9655996167566</eqn>
 				</element>
 				<range min="15" max="25"/>
 				<units>years</units>
@@ -1732,37 +1700,37 @@ Calibration Parameter: fertility</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>-0.0190701171875</eqn>
+					<eqn>-0.0191491516113281</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>-0.0186386039733887</eqn>
+					<eqn>-0.0180783264160156</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>-0.0180994888305664</eqn>
+					<eqn>-0.0195844375610352</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>-0.0194868377685547</eqn>
+					<eqn>-0.0194780990600586</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>-0.0195032974243164</eqn>
+					<eqn>-0.0183875679016113</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>-0.0181397079467773</eqn>
+					<eqn>-0.0186452545166016</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>-0.017786351776123</eqn>
+					<eqn>-0.01873095703125</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>-0.0179124839782715</eqn>
+					<eqn>-0.0196724563598633</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>-0.0183908142089844</eqn>
+					<eqn>-0.0178671760559082</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>-0.0178194641113281</eqn>
+					<eqn>-0.0180070655822754</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>-0.0191890899658203</eqn>
+					<eqn>-0.0198538635253906</eqn>
 				</element>
 				<range min="-0.05" max="0"/>
 				<units>dmnl</units>
@@ -2196,37 +2164,37 @@ Calibration Parameter: deaths 60-80 years</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>1.09466236697702</eqn>
+					<eqn>1.08535582027458</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>1.09419221814512</eqn>
+					<eqn>1.08619354799099</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>1.09227526913117</eqn>
+					<eqn>1.08887111085203</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>1.09104720333975</eqn>
+					<eqn>1.08404492251369</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>1.09214791642789</eqn>
+					<eqn>1.08878648574114</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>1.08709513669775</eqn>
+					<eqn>1.09607922209568</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>1.09072491834363</eqn>
+					<eqn>1.09545823207334</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>1.0883924658284</eqn>
+					<eqn>1.09114953542028</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>1.09077994634463</eqn>
+					<eqn>1.08915956680555</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>1.09053136366418</eqn>
+					<eqn>1.0875362258295</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>1.09068779931653</eqn>
+					<eqn>1.09252910737188</eqn>
 				</element>
 				<range min="0" max="3"/>
 				<units>dmnl</units>
@@ -2238,37 +2206,37 @@ Calibration Parameter: deaths 60-80 years</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>-0.697505195709033</eqn>
+					<eqn>-0.724219785939805</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>-0.692497689264236</eqn>
+					<eqn>-0.74254338189049</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>-0.690273005598359</eqn>
+					<eqn>-0.675580982656192</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>-0.708896703129831</eqn>
+					<eqn>-0.686217534563694</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>-0.722572976006701</eqn>
+					<eqn>-0.690703121298235</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>-0.690277977884445</eqn>
+					<eqn>-0.713796024178826</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>-0.71993476388142</eqn>
+					<eqn>-0.739747555798659</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>-0.714142050592362</eqn>
+					<eqn>-0.652428232546891</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>-0.722336792417662</eqn>
+					<eqn>-0.708583404443661</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>-0.699457646711753</eqn>
+					<eqn>-0.712842162792845</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>-0.710557446682231</eqn>
+					<eqn>-0.679888505413954</eqn>
 				</element>
 				<range min="-3" max="0"/>
 				<units>dmnl</units>
@@ -2327,37 +2295,37 @@ Miladinov, G. 2020. Socioeconomic development and life expectancy relationship: 
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>4.38620938248929</eqn>
+					<eqn>4.38418162609847</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>4.38065083237513</eqn>
+					<eqn>4.36903974737448</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>4.37027575605587</eqn>
+					<eqn>4.38036657129661</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>4.38585959888389</eqn>
+					<eqn>4.37302304527327</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>4.3816976506865</eqn>
+					<eqn>4.37569978581653</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>4.38085924262383</eqn>
+					<eqn>4.3746110177242</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>4.37752959468339</eqn>
+					<eqn>4.36597002374993</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>4.37997092931933</eqn>
+					<eqn>4.38814995321321</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>4.36949723428339</eqn>
+					<eqn>4.38320371309754</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>4.38605564455029</eqn>
+					<eqn>4.3821393616411</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>4.37318992423675</eqn>
+					<eqn>4.36715770595116</eqn>
 				</element>
 				<range min="0" max="5"/>
 				<units>dmnl</units>
@@ -2369,37 +2337,37 @@ Miladinov, G. 2020. Socioeconomic development and life expectancy relationship: 
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>-1.19335980845289</eqn>
+					<eqn>-1.19117243966518</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>-1.18218553281432</eqn>
+					<eqn>-1.17427386806029</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>-1.18478753505221</eqn>
+					<eqn>-1.18092994258843</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>-1.18591773131195</eqn>
+					<eqn>-1.18566613615397</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>-1.18072474182921</eqn>
+					<eqn>-1.18349552576712</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>-1.17804809852005</eqn>
+					<eqn>-1.19105064188796</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>-1.18241394898582</eqn>
+					<eqn>-1.17769951754296</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>-1.18915802340979</eqn>
+					<eqn>-1.17482891793076</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>-1.1756488591146</eqn>
+					<eqn>-1.17781209348848</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>-1.19308037547151</eqn>
+					<eqn>-1.17939685656691</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>-1.18325674088764</eqn>
+					<eqn>-1.17548766990868</eqn>
 				</element>
 				<range min="-5" max="5"/>
 				<units>dmnl</units>
@@ -2449,7 +2417,39 @@ Miladinov, G. 2020. Socioeconomic development and life expectancy relationship: 
 				<dimensions>
 					<dim name="Run"/>
 				</dimensions>
-				<eqn>0.833323168072644</eqn>
+				<element subscript="1">
+					<eqn>0.836462732115787</eqn>
+				</element>
+				<element subscript="2">
+					<eqn>0.836357560062674</eqn>
+				</element>
+				<element subscript="3">
+					<eqn>0.836384187309172</eqn>
+				</element>
+				<element subscript="4">
+					<eqn>0.834990434783277</eqn>
+				</element>
+				<element subscript="5">
+					<eqn>0.834389427748829</eqn>
+				</element>
+				<element subscript="6">
+					<eqn>0.835851976612433</eqn>
+				</element>
+				<element subscript="7">
+					<eqn>0.835868688273415</eqn>
+				</element>
+				<element subscript="8">
+					<eqn>0.832489701833937</eqn>
+				</element>
+				<element subscript="9">
+					<eqn>0.832508363188701</eqn>
+				</element>
+				<element subscript="10">
+					<eqn>0.836743098081527</eqn>
+				</element>
+				<element subscript="11">
+					<eqn>0.83020053851263</eqn>
+				</element>
 				<range min="0.5" max="1"/>
 				<units>dmnl</units>
 			</aux>
@@ -2516,7 +2516,7 @@ Miladinov, G. 2020. Socioeconomic development and life expectancy relationship: 
 				<isee:iframe color="black" background="white" text_align="left" vertical_text_align="top" font_size="12pt" border_width="thin" border_style="solid"/>
 				<isee:financial_table color="black" background="#E0E0E0" text_align="right" font_size="12pt" hide_border="false" auto_fit="true" first_column_width="250" other_column_width="100" header_font_style="normal" header_font_weight="bold" header_text_decoration="none" header_text_align="center" header_vertical_text_align="center" header_font_color="black" header_font_family="Arial" header_font_size="14pt" header_text_padding="2" header_text_border_color="black" header_text_border_width="thin" header_text_border_style="none"/>
 			</style>
-			<view isee:show_pages="false" background="white" page_width="768" page_height="588" isee:page_cols="4" isee:page_rows="5" isee:scroll_x="600" isee:scroll_y="1567" isee:popup_graphs_are_comparative="true" isee:enable_non_negative_highlights="false" type="stock_flow">
+			<view isee:show_pages="false" background="white" page_width="768" page_height="588" isee:page_cols="4" isee:page_rows="5" isee:scroll_x="1288" isee:scroll_y="1241" isee:popup_graphs_are_comparative="true" isee:enable_non_negative_highlights="false" type="stock_flow">
 				<style color="black" background="white" font_style="normal" font_weight="normal" text_decoration="none" text_align="center" vertical_text_align="center" font_color="black" font_family="Arial" font_size="10pt" padding="2" border_color="black" border_width="thin" border_style="none">
 					<stock color="blue" background="white" font_color="blue" font_size="12.51pt" label_side="top">
 						<shape type="rectangle" width="45" height="35"/>

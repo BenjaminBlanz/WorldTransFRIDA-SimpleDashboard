@@ -5,7 +5,7 @@
 		<name>Resources</name>
 		<uuid>e9e3d587-974f-4869-83a8-55d5b762307b</uuid>
 		<vendor>isee systems, inc.</vendor>
-		<product version="3.8" isee:build_number="3578" isee:saved_by_v1="true" lang="en">Stella Architect</product>
+		<product version="3.8.1" isee:build_number="3632" isee:saved_by_v1="true" lang="en">Stella Architect</product>
 	</header>
 	<sim_specs isee:sim_duration="0" isee:run_prefix="Run" isee:simulation_delay="0" isee:restore_on_start="false" isee:save_interval="1" method="RK4" time_units="Year" isee:instantaneous_flows="false" isee:ignore_module_errors="true" isee:strict_units="false" isee:loop_scores="false" isee:loop_exhaustive_allowed="1000">
 		<start>1980</start>
@@ -19,7 +19,7 @@
 		</dim>
 		<dim name="Run" size="11"/>
 	</dimensions>
-	<isee:prefs saved_runs="100" keep="false" show_module_prefix="true" live_update_on_drag="true" show_restore_buttons="false" layer="model" isee:design="Deluxe Tabbed Blue Gold" isee:design_custom="false" interface_secure_mode="true" interface_scale_ui="true" interface_max_page_width="10000" interface_max_page_height="10000" interface_min_page_width="0" interface_min_page_height="0" rerun_on_structure_change="false" rifp="true">
+	<isee:prefs saved_runs="100" keep="false" show_module_prefix="true" live_update_on_drag="true" show_restore_buttons="false" layer="model" isee:design="Deluxe Tabbed Blue Gold" isee:design_custom="false" interface_secure_mode="true" interface_scale_ui="true" interface_max_page_width="10000" interface_max_page_height="10000" interface_min_page_width="0" interface_min_page_height="0" rifp="true">
 		<isee:ignored_words>
 			<isee:ignored_word>WolrdTrans</isee:ignored_word>
 			<isee:ignored_word>WorldTrans</isee:ignored_word>
@@ -894,37 +894,37 @@ Source: Assumption</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>14.0075779502111</eqn>
+					<eqn>13.8834056849518</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>13.8402294550088</eqn>
+					<eqn>13.85461251816</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>13.8448307046981</eqn>
+					<eqn>13.8221209484993</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>13.9574963902282</eqn>
+					<eqn>13.798152535975</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>13.797570497596</eqn>
+					<eqn>14.0428361941507</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>13.9961957774877</eqn>
+					<eqn>13.9698283405534</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>13.8406572413662</eqn>
+					<eqn>13.8766562076043</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>14.0577180761835</eqn>
+					<eqn>13.8821757610106</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>13.7625378505426</eqn>
+					<eqn>13.9033757657865</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>13.7921569630971</eqn>
+					<eqn>14.0134992715111</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>14.0041251031836</eqn>
+					<eqn>13.8749127364736</eqn>
 				</element>
 				<range min="0.5" max="20"/>
 				<units>year</units>
@@ -938,37 +938,37 @@ Source: Assumption</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>6.22833160309755</eqn>
+					<eqn>6.47754430135211</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>6.49538224812051</eqn>
+					<eqn>6.21234496342899</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>6.21922859296008</eqn>
+					<eqn>6.34959635911864</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>6.28721757737361</eqn>
+					<eqn>6.25073906612503</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>6.38491348567807</eqn>
+					<eqn>6.32490055020547</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>6.4619717861755</eqn>
+					<eqn>6.25534450701503</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>6.25559290026741</eqn>
+					<eqn>6.33285477148132</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>6.28433392795622</eqn>
+					<eqn>6.29670090334886</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>6.29345097728267</eqn>
+					<eqn>6.27367138460695</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>6.4687948320219</eqn>
+					<eqn>6.27834625425408</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>6.24554926446799</eqn>
+					<eqn>6.47258245950881</eqn>
 				</element>
 				<range min="2" max="30"/>
 				<units>Years</units>
@@ -988,37 +988,37 @@ Source: DOI: 10.1016/j.jclepro.2019.119146
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>1.00166941656017</eqn>
+					<eqn>1.00038808276028</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.994916021958346</eqn>
+					<eqn>0.997048649957288</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.996155735947624</eqn>
+					<eqn>0.995822811059062</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.99588428123103</eqn>
+					<eqn>1.00099738660375</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.99595187947206</eqn>
+					<eqn>0.996183133401873</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>1.00001650389863</eqn>
+					<eqn>0.996245688332316</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.998825630523287</eqn>
+					<eqn>0.999971644236791</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.99838700877783</eqn>
+					<eqn>0.995908793132893</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.997382296003439</eqn>
+					<eqn>1.0008178445429</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.999336864340915</eqn>
+					<eqn>0.996679016191734</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.998792539237757</eqn>
+					<eqn>0.996867968733016</eqn>
 				</element>
 				<range min="0.452" max="1.43"/>
 				<units>Mtonne/Mm2</units>
@@ -1078,37 +1078,37 @@ Source: Assumption</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>14267.0471295721</eqn>
+					<eqn>12757.3398045188</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>11091.8671846575</eqn>
+					<eqn>11834.6496165931</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>13349.7315207325</eqn>
+					<eqn>12392.0421575686</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>12704.7878493905</eqn>
+					<eqn>11504.359454202</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>13065.517325083</eqn>
+					<eqn>13716.4506686608</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>11092.0458394141</eqn>
+					<eqn>12695.95274236</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>12048.4357957339</eqn>
+					<eqn>13278.7827331639</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>12427.081791303</eqn>
+					<eqn>12295.449268162</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>11129.8696035981</eqn>
+					<eqn>12177.5097468818</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>13375.4067614674</eqn>
+					<eqn>12374.9598935026</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>11671.4487371904</eqn>
+					<eqn>12518.5352072999</eqn>
 				</element>
 				<range min="1000" max="70000"/>
 				<units>Mtonne</units>
@@ -1124,37 +1124,37 @@ Source: Assumption. Assumed to be significantly larger than the initial value fo
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>55368.4789870652</eqn>
+					<eqn>54685.7895542099</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>53688.1972451685</eqn>
+					<eqn>54924.0188729526</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>55745.908351692</eqn>
+					<eqn>55324.7991274007</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>54753.1918788874</eqn>
+					<eqn>54750.3099947027</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>54233.6034149314</eqn>
+					<eqn>54624.9823900508</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>53712.5309560949</eqn>
+					<eqn>54280.9880931954</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>54268.5533969266</eqn>
+					<eqn>54780.9943367001</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>55174.5512970944</eqn>
+					<eqn>54886.4513845803</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>54368.646949064</eqn>
+					<eqn>53773.9356814279</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>55970.1437832623</eqn>
+					<eqn>54986.0215309557</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>54504.3373527598</eqn>
+					<eqn>55882.7324817129</eqn>
 				</element>
 				<range min="20000" max="80000"/>
 				<units>Mtonne</units>
@@ -1213,37 +1213,37 @@ Source: Assumption</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>3603.66786919209</eqn>
+					<eqn>3090.65491636174</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>2627.85721635871</eqn>
+					<eqn>3205.89937949645</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>1653.58279800169</eqn>
+					<eqn>2679.56297726319</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>1087.20606587726</eqn>
+					<eqn>3619.55230666466</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>3209.12993635215</eqn>
+					<eqn>3257.14581784871</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>2620.86186293956</eqn>
+					<eqn>3214.75612990402</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>1048.38871259062</eqn>
+					<eqn>2657.20768557178</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>4433.26191918603</eqn>
+					<eqn>3201.79112780137</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>2968.76410631852</eqn>
+					<eqn>2358.87925241545</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>1339.03878896659</eqn>
+					<eqn>3000.30005602905</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>3573.49183483498</eqn>
+					<eqn>4235.41658349978</eqn>
 				</element>
 				<range min="1000" max="16000"/>
 				<units>Mtonne</units>
@@ -1258,37 +1258,37 @@ Source: Assumption. Assumed to be significantly larger than the initial value fo
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>14981.156161122</eqn>
+					<eqn>14993.0943716685</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>14981.1210198151</eqn>
+					<eqn>14993.5247442166</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>14988.2818926181</eqn>
+					<eqn>14992.0135234077</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>14995.4053102834</eqn>
+					<eqn>14981.2918094587</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>14999.2216851298</eqn>
+					<eqn>14985.9170128203</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>14988.4143594374</eqn>
+					<eqn>14996.0902042308</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>14983.2069383746</eqn>
+					<eqn>14999.1299995803</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>14986.835603689</eqn>
+					<eqn>14986.4591723239</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>14993.4923505839</eqn>
+					<eqn>14998.3735214893</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>14992.8375364382</eqn>
+					<eqn>14988.9209437908</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>14988.1294690074</eqn>
+					<eqn>14989.9244233307</eqn>
 				</element>
 				<range min="1000" max="15000"/>
 				<units>Mtonne</units>
@@ -1356,37 +1356,37 @@ Source: Assumption</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>9.94455412533708</eqn>
+					<eqn>9.97072021166882</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>9.95724475047155</eqn>
+					<eqn>9.97123305670402</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>9.99561609074373</eqn>
+					<eqn>9.97353811197831</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>9.97115063518051</eqn>
+					<eqn>9.98445621645987</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>9.99016528065531</eqn>
+					<eqn>9.96516729047071</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>9.99912724764545</eqn>
+					<eqn>9.99292823328245</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>9.95113823137383</eqn>
+					<eqn>9.94426107103125</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>9.99532898910349</eqn>
+					<eqn>9.94249999781216</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>9.99974724066122</eqn>
+					<eqn>9.97155221115896</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>9.95399413716361</eqn>
+					<eqn>9.94616088714826</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>9.98918446452548</eqn>
+					<eqn>9.98251564747845</eqn>
 				</element>
 				<range min="0.5" max="10"/>
 				<units>year</units>
@@ -1422,37 +1422,37 @@ Source: Assumption</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>-237.445212844501{-189.79}</eqn>
+					<eqn>-237.298740910635{-189.79}</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>-237.343232867005</eqn>
+					<eqn>-237.476552090076</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>-237.479495606883</eqn>
+					<eqn>-237.461439970315</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>-237.283703125059</eqn>
+					<eqn>-237.497296492999</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>-237.38471991822</eqn>
+					<eqn>-237.308880780416</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>-237.286668990317</eqn>
+					<eqn>-237.434908396443</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>-237.292726532918</eqn>
+					<eqn>-237.339110300202</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>-237.474646685311</eqn>
+					<eqn>-237.320365357802</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>-237.318443760937</eqn>
+					<eqn>-237.342435107357</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>-237.374180577842</eqn>
+					<eqn>-237.425757696392</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>-237.285501619151</eqn>
+					<eqn>-237.366046694427</eqn>
 				</element>
 				<range min="-300" max="-50"/>
 				<units>Mm2/Mp</units>
@@ -1468,37 +1468,37 @@ Source: Assumption</doc>
 				<element subscript="1">
 					<eqn>{22.823}
 
-29.3947454579155</eqn>
+29.401906749275</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>29.398601627719</eqn>
+					<eqn>29.4075810397556</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>29.3956990888193</eqn>
+					<eqn>29.4063267029495</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>29.384079579531</eqn>
+					<eqn>29.4103404290101</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>29.3844960414156</eqn>
+					<eqn>29.3917038363882</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>29.3901144908411</eqn>
+					<eqn>29.4014660055892</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>29.3887757997242</eqn>
+					<eqn>29.3893459335291</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>29.3941074026751</eqn>
+					<eqn>29.3997830626171</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>29.3875457895698</eqn>
+					<eqn>29.407362754049</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>29.3836582180948</eqn>
+					<eqn>29.3989082129517</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>29.4065943553007</eqn>
+					<eqn>29.388634371434</eqn>
 				</element>
 				<range min="1" max="45"/>
 				<units>Mm2/Mp</units>
@@ -1614,37 +1614,37 @@ Source: Assumption qualitatively based on Krausmann et al (2017) (https://doi.or
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.0142955341037779</eqn>
+					<eqn>0.0142604566412509</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.0142710176268016</eqn>
+					<eqn>0.0142148693067407</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.0142097368746306</eqn>
+					<eqn>0.0142710652620613</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.0142894079350449</eqn>
+					<eqn>0.0142636362382637</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.014288872303813</eqn>
+					<eqn>0.0142763853052572</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.0142818237599417</eqn>
+					<eqn>0.0142813151752423</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.0142973162124357</eqn>
+					<eqn>0.0142307342529444</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.0142750012706073</eqn>
+					<eqn>0.0142954510877414</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.0142719663295766</eqn>
+					<eqn>0.0142303763319546</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.0141973483597326</eqn>
+					<eqn>0.0142627260963182</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.0143068604347076</eqn>
+					<eqn>0.014242710053272</eqn>
 				</element>
 				<range min="0.001" max="0.1"/>
 				<units>dmnl/year</units>
@@ -1716,37 +1716,37 @@ Billy: this range must be high based on new emissions data from Chris Wells</doc
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.0571047143431051</eqn>
+					<eqn>0.0604783809690754</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.0576352789071178</eqn>
+					<eqn>0.0578453619011635</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.0614313207929242</eqn>
+					<eqn>0.0606069744549741</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.0563068770220077</eqn>
+					<eqn>0.0576905615510057</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.0613786075218813</eqn>
+					<eqn>0.0584172239416012</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.059969442682439</eqn>
+					<eqn>0.0549895844870495</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.0566728956462024</eqn>
+					<eqn>0.0579383705762791</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.0592856801744579</eqn>
+					<eqn>0.05998880077451</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.0572698093794965</eqn>
+					<eqn>0.0559255163966549</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.0579894919549851</eqn>
+					<eqn>0.0610371395773835</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.0577429475935448</eqn>
+					<eqn>0.0552842832449432</eqn>
 				</element>
 				<range min="0.05" max="0.163"/>
 				<units>MtCO2/Mtonne</units>
@@ -1854,37 +1854,37 @@ Source: Assumption</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>-27199.1114404441{- 28801}</eqn>
+					<eqn>-27259.6027569355{- 28801}</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>-27267.6656335268</eqn>
+					<eqn>-27240.0660924452</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>-27209.7925268407</eqn>
+					<eqn>-27243.413260199</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>-27228.0470310645</eqn>
+					<eqn>-27242.862529877</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>-27271.1603165835</eqn>
+					<eqn>-27205.9806029246</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>-27246.3426114528</eqn>
+					<eqn>-27249.5733214699</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>-27220.3612956</eqn>
+					<eqn>-27219.577169151</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>-27216.2562464117</eqn>
+					<eqn>-27259.987829332</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>-27196.9395382468</eqn>
+					<eqn>-27210.2591851074</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>-27253.4089953746</eqn>
+					<eqn>-27233.5544194845</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>-27200.5311353791</eqn>
+					<eqn>-27219.8799611209</eqn>
 				</element>
 				<range min="-40000" max="-5000"/>
 				<units>Mtonne/(bc$/Mp/year)</units>
@@ -1899,37 +1899,37 @@ Source: Assumption</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn> -37.4120063821506{-43.14}</eqn>
+					<eqn> -37.3871664986203{-43.14}</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>-37.3045311952683</eqn>
+					<eqn>-37.4108085469113</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>-37.3108528020936</eqn>
+					<eqn>-37.3516696903844</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>-37.3603263608832</eqn>
+					<eqn>-37.397842754636</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>-37.3566926503819</eqn>
+					<eqn>-37.3171680882337</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>-37.285062640196</eqn>
+					<eqn>-37.37228226388</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>-37.340348823979</eqn>
+					<eqn>-37.3808241683139</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>-37.4310053096563</eqn>
+					<eqn>-37.3297998960939</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>-37.4246102415358</eqn>
+					<eqn>-37.3357452684928</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>-37.2838793886176</eqn>
+					<eqn>-37.3783918171698</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>-37.3501782076564</eqn>
+					<eqn>-37.3278274763497</eqn>
 				</element>
 				<range min="-40" max="-5"/>
 				<units>Mtonne/Mp</units>
@@ -1944,38 +1944,38 @@ Source: Assumption</doc>
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>6.61097974759887
+					<eqn>6.6123482359398
 {+5.652}</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>6.61503671127896</eqn>
+					<eqn>6.62006667341558</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>6.61726494544869</eqn>
+					<eqn>6.61013746029341</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>6.61159155534868</eqn>
+					<eqn>6.61926455022274</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>6.61362355140172</eqn>
+					<eqn>6.61068484119675</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>6.61355170526918</eqn>
+					<eqn>6.61443243974357</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>6.61626032677857</eqn>
+					<eqn>6.61945957994161</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>6.61083348940048</eqn>
+					<eqn>6.61803569372988</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>6.61995739042202</eqn>
+					<eqn>6.61926614882699</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>6.61613571166979</eqn>
+					<eqn>6.62119462976941</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>6.6192536553225</eqn>
+					<eqn>6.61754501625975</eqn>
 				</element>
 				<range min="4.48" max="6.824"/>
 				<units>Mtonne/(bc$/year)</units>
@@ -1999,37 +1999,37 @@ Wang, X., Stewart, M.G., and Nguyen, M,: Impact of climate change on corrosion a
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>-0.05166015625</eqn>
+					<eqn>-0.0690338134765625</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>-0.0911365509033203</eqn>
+					<eqn>-0.0542755126953125</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>-0.0996986389160156</eqn>
+					<eqn>-0.0800971984863281</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>-0.0741317749023437</eqn>
+					<eqn>-0.0970329284667969</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>-0.0903724670410156</eqn>
+					<eqn>-0.0610897064208984</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>-0.0772941589355469</eqn>
+					<eqn>-0.0564315795898438</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>-0.0962238311767578</eqn>
+					<eqn>-0.090869140625</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>-0.0609714508056641</eqn>
+					<eqn>-0.0900550842285156</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>-0.0664703369140625</eqn>
+					<eqn>-0.0680690765380859</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>-0.0964324951171875</eqn>
+					<eqn>-0.0794841766357422</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>-0.0547622680664063</eqn>
+					<eqn>-0.0733428955078125</eqn>
 				</element>
 				<range min="-0.15" max="-0.05"/>
 				<units>dmnl/deg C</units>
@@ -2089,37 +2089,37 @@ Based on: Expert opinion. Katarina Malaga (https://www.ri.se/en/person/katarina-
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>110.051500306149</eqn>
+					<eqn>114.837972828894</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>120.006004798259</eqn>
+					<eqn>110.782763117956</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>114.416661918868</eqn>
+					<eqn>120.751172112742</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>116.505684674925</eqn>
+					<eqn>116.689480289094</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>113.109971819644</eqn>
+					<eqn>115.58849344542</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>114.556458543454</eqn>
+					<eqn>109.325152040058</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>118.988515963642</eqn>
+					<eqn>110.455200355713</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>109.426138601493</eqn>
+					<eqn>114.513651123006</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>120.680847782407</eqn>
+					<eqn>117.122593453288</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>120.644337323752</eqn>
+					<eqn>114.479187890435</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>112.413630900959</eqn>
+					<eqn>109.60042575978</eqn>
 				</element>
 				<range min="75" max="200"/>
 				<units>year</units>
