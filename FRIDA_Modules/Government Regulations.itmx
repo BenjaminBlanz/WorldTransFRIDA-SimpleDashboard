@@ -777,37 +777,37 @@ RAMP((government_debt_to_GDP_ratio_target-calibration_period_government_debt_to_
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.0196940155262502</eqn>
+					<eqn>0.0199618867681011</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.0202390120669012</eqn>
+					<eqn>0.0196611728168522</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.0198718527610538</eqn>
+					<eqn>0.0196921892289185</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.0202817523272747</eqn>
+					<eqn>0.0202000714855399</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.0200308693277175</eqn>
+					<eqn>0.0199270216489062</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.0202918888903171</eqn>
+					<eqn>0.0202836582952954</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.0196085595195613</eqn>
+					<eqn>0.0201958673245682</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.0197390355940311</eqn>
+					<eqn>0.0201180597040201</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.0203755860133343</eqn>
+					<eqn>0.0196238440348139</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.0197942841525725</eqn>
+					<eqn>0.0201299122511326</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.0199632779409007</eqn>
+					<eqn>0.019629666123623</eqn>
 				</element>
 				<range min="0.01" max="0.04"/>
 				<units>1/year</units>
@@ -826,37 +826,37 @@ RAMP((government_debt_to_GDP_ratio_target-calibration_period_government_debt_to_
 					<dim name="Run"/>
 				</dimensions>
 				<element subscript="1">
-					<eqn>0.0510391687524184</eqn>
+					<eqn>0.0505760727517744</eqn>
 				</element>
 				<element subscript="2">
-					<eqn>0.0502369202004468</eqn>
+					<eqn>0.0503036836806186</eqn>
 				</element>
 				<element subscript="3">
-					<eqn>0.0489595962590472</eqn>
+					<eqn>0.0484874354425604</eqn>
 				</element>
 				<element subscript="4">
-					<eqn>0.0486196286152868</eqn>
+					<eqn>0.0511793152513065</eqn>
 				</element>
 				<element subscript="5">
-					<eqn>0.0497732314053063</eqn>
+					<eqn>0.0507895034702962</eqn>
 				</element>
 				<element subscript="6">
-					<eqn>0.0515810817213302</eqn>
+					<eqn>0.049631751118801</eqn>
 				</element>
 				<element subscript="7">
-					<eqn>0.0495542185386089</eqn>
+					<eqn>0.0503981603035032</eqn>
 				</element>
 				<element subscript="8">
-					<eqn>0.0485721062564816</eqn>
+					<eqn>0.0507540345995871</eqn>
 				</element>
 				<element subscript="9">
-					<eqn>0.0502650532392613</eqn>
+					<eqn>0.0513253402956186</eqn>
 				</element>
 				<element subscript="10">
-					<eqn>0.050552854967327</eqn>
+					<eqn>0.0493157669523794</eqn>
 				</element>
 				<element subscript="11">
-					<eqn>0.050839199408922</eqn>
+					<eqn>0.0499578127916636</eqn>
 				</element>
 				<range min="0.02" max="0.08"/>
 				<units>dmnl</units>
@@ -994,7 +994,7 @@ RAMP((government_debt_to_GDP_ratio_target-calibration_period_government_debt_to_
 				<isee:iframe color="black" background="white" text_align="left" vertical_text_align="top" font_size="12pt" border_width="thin" border_style="solid"/>
 				<isee:financial_table color="black" background="#E0E0E0" text_align="right" font_size="12pt" hide_border="false" auto_fit="true" first_column_width="250" other_column_width="100" header_font_style="normal" header_font_weight="bold" header_text_decoration="none" header_text_align="center" header_vertical_text_align="center" header_font_color="black" header_font_family="Arial" header_font_size="14pt" header_text_padding="2" header_text_border_color="black" header_text_border_width="thin" header_text_border_style="none"/>
 			</style>
-			<view isee:show_pages="false" background="white" page_width="768" page_height="588" isee:page_cols="2" isee:page_rows="3" isee:scroll_y="840" isee:popup_graphs_are_comparative="true" isee:enable_non_negative_highlights="false" type="stock_flow">
+			<view isee:show_pages="false" background="white" page_width="768" page_height="588" isee:page_cols="2" isee:page_rows="3" isee:scroll_y="840" isee:popup_graphs_are_comparative="false" isee:enable_non_negative_highlights="false" type="stock_flow">
 				<style color="black" background="white" font_style="normal" font_weight="normal" text_decoration="none" text_align="center" vertical_text_align="center" font_color="black" font_family="Arial" font_size="10pt" padding="2" border_color="black" border_width="thin" border_style="none">
 					<stock color="blue" background="white" font_color="blue" font_size="11pt" label_side="top">
 						<shape type="rectangle" width="45" height="35"/>
